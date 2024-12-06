@@ -1,2 +1,8 @@
 *.env
 raw_data/*
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Logs
+logs/
