@@ -338,27 +338,27 @@ class SmartWebCrawler:
             # Fall back to all links if LLM analysis fails
             return [link['url'] for link in links_data]
 
-async def main():
-    # Initialize the crawler
-    base_url = "https://softo.ag3nts.org"
-    storage_dir = Path("crawler_storage")
-    crawler = SmartWebCrawler(base_url, storage_dir)
+# async def main():
+#     # Initialize the crawler
+#     base_url = "https://softo.ag3nts.org"
+#     storage_dir = Path("crawler_storage")
+#     crawler = SmartWebCrawler(base_url, storage_dir)
 
-    # Define test questions
-    questions = [
-        ("Jak nazywa się firma zbrojeniowa produkująca roboty przemysłowe i militarne?", "q1"),
-        # ("Jak nazywa się firma tworząca oprogramowanie do zarządzania robotami?", "q2"),
-        # ("Na jakiej ulicy znajduje się siedziba firmy Softo?", "q3"),
-    ]
+#     # Define test questions
+#     questions = [
+#         ("Jak nazywa się firma zbrojeniowa produkująca roboty przemysłowe i militarne?", "q1"),
+#         # ("Jak nazywa się firma tworząca oprogramowanie do zarządzania robotami?", "q2"),
+#         # ("Na jakiej ulicy znajduje się siedziba firmy Softo?", "q3"),
+#     ]
 
-    # Process each question
-    for question, question_id in questions:
-        print("\n" + "="*50)
-        print(f"📝 Processing question: {question}")
-        answer = await crawler.crawl(question, question_id)
-        print(f"🎯 Final answer: {answer if answer else 'Not found'}")
-        print("="*50 + "\n")
+#     # Process each question
+#     for question, question_id in questions:
+#         print("\n" + "="*50)
+#         print(f"📝 Processing question: {question}")
+#         answer = await crawler.crawl(question, question_id)
+#         print(f"🎯 Final answer: {answer if answer else 'Not found'}")
+#         print("="*50 + "\n")
 
-if __name__ == "__main__":
-    # Run the async main function
-    asyncio.run(main())
+# if __name__ == "__main__":
+#     # Run the async main function
+#     asyncio.run(main())
