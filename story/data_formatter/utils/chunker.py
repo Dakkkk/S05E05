@@ -1,7 +1,7 @@
 from typing import List
 import tiktoken
 
-def chunk_text(text: str, max_tokens: int, model_name: str = "gpt-4") -> List[str]:
+def chunk_text(text: str, max_tokens: int, model_name: str = "gpt-4o-mini") -> List[str]:
     enc = tiktoken.encoding_for_model(model_name)
     tokens = enc.encode(text)
     

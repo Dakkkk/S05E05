@@ -6,3 +6,9 @@ __pycache__/
 
 # Logs
 logs/
+
+# Ignore answers.json file
+answers.json
+
+# Ignore crawler storage directory and its contents
+crawler_storage/
