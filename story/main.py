@@ -8,7 +8,10 @@ from utils.llm_question_answerer import answer_question_in_polish
 from config import QA_MODEL, OPENAI_API_KEY
 from openai import OpenAI
 from pathlib import Path
-from tools.web_crawler import WebCrawler
+import sys
+sys.path.append(str(Path(__file__).parent.parent))  # Add S05E05 directory to Python path
+
+from story.tools.web_crawler import SmartWebCrawler
 
 client = OpenAI(api_key=OPENAI_API_KEY)
 
@@ -48,10 +51,15 @@ async def use_web_crawler(question: str, question_id: str) -> str:
     # Adjust base_url and storage_dir as needed
     base_url = "https://softo.ag3nts.org"  # Replace with a suitable base URL
     storage_dir = Path("crawler_storage")
-    crawler = WebCrawler(base_url=base_url, storage_dir=storage_dir)
+    crawler = SmartWebCrawler(base_url=base_url, storage_dir=storage_dir)
 
-    answer = await crawler.crawl(question, question_id, max_depth=3)
-    return answer if answer else "Brakuje informacji. Nie znaleziono odpowiedzi w trakcie crawlowania."
+    try:
+        answer = await crawler.crawl(question, question_id, max_depth=10)
+        print(f"Found answer: {answer}")
+        return answer if answer else "Brakuje informacji. Nie znaleziono odpowiedzi w trakcie crawlowania."
+    except Exception as e:
+        print(f"Error occurred: {e}")
+        return f"Error occurred during crawling: {e}"
 
 def main():
     # Clear the debug log before we start (optional)

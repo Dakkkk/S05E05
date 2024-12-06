@@ -9,6 +9,7 @@ logs/
 
 # Ignore answers.json file
 answers.json
+answers____.json
 
 # Ignore crawler storage directory and its contents
 crawler_storage/
