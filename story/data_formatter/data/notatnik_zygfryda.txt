@@ -1,0 +1,255 @@
+--- page_1_combined.txt ---
+1. **Wydarzenie:** Autor obsługiwał skomplikowany sprzęt będąc nietrzeźwym, co uważa za zły pomysł.
+2. **Sprzęt:** Maszyna, która ma zdolność przenoszenia w czasie.
+3. **Stan emocjonalny:** Autor odczuwa żal, niepokój i niedowierzanie w związku z sytuacją, w której się znalazł.
+4. **Konsekwencje:** Autor nie jest pewien, jakie będą skutki jego działań, ale obawia się, że mogą być negatywne.
+5. **Czas i miejsce:** Autor sugeruje, że znalazł się w innym czasie, co jest dla niego nienormalne i zaskakujące.
+6. **Opis fizyczny:** Tekst jest napisany odręcznie na kartce z zeszytu, a obecność plamy może sugerować emocjonalny lub chaotyczny stan autora.
+7. **Emocje:** Tekst wyraża refleksję nad decyzjami i ich potencjalnymi konsekwencjami, co wskazuje na stan niepewności i dezorientacji.
+--- page_2_combined.txt ---
+- **Osoba:** Rafał - autor tekstu, który wielokrotnie podkreśla swoją normalność.
+- **Główne stwierdzenie:** "Jestem normalny" - powtarzane wielokrotnie, co sugeruje próbę przekonania siebie lub innych o swojej normalności.
+- **Podkreślenie:** Fragment "To wszystko dzieje się naprawdę" jest podkreślony, co może wskazywać na jego szczególne znaczenie lub próbę przekonania się o prawdziwości sytuacji.
+- **Kontrast:** Ostatnie zdanie "Świat jest nienormalny" sugeruje, że Rafał postrzega problem w otaczającym go świecie, a nie w sobie.
+- **Forma tekstu:** Napisany odręcznym, chaotycznym stylem, co może sugerować emocjonalny lub niepewny stan autora.
+- **Tło obrazu:** Kartka w linię, przypominająca kartkę z zeszytu, co może wskazywać na osobisty, intymny charakter notatki.
+- **Element graficzny:** Szara plama na dole po prawej stronie, mogąca być przypadkowym zabrudzeniem lub celowym elementem.
+- **Interpretacja:** Tekst może być wyrazem niepokoju, zagubienia lub próby odnalezienia się w chaotycznej rzeczywistości.
+--- page_3_combined.txt ---
+1. **Spotkanie z Azazelem:**
+   - Autor spotkał osobę, która przedstawiła się jako Azazel.
+   - Azazel twierdzi, że pochodzi z przyszłości.
+
+2. **Podróże w czasie:**
+   - Autor jest sceptyczny wobec twierdzeń Azazela, ponieważ nikt wcześniej nie cofnął się w czasie.
+
+3. **Wiedza Azazela:**
+   - Azazel posiadał wiedzę na temat badań, nad którymi autor pracował z profesorem Majem.
+
+4. **Przekazanie badań:**
+   - Autor przekazał Azazelowi wyniki badań, które zabrał z laboratorium.
+
+5. **Profesor Maj:**
+   - Wspomniany jako współpracownik autora w kontekście prowadzonych badań.
+
+6. **Styl i kontekst:**
+   - Tekst jest odręcznie napisany, co może sugerować emocjonalny stan autora.
+   - Elementy science fiction, takie jak podróże w czasie i tajemnicze postacie z przyszłości, są obecne w tekście.
+--- page_4_combined.txt ---
+- **Osoby:**
+  - Adam: Osoba, która wybrała konkretny rok na rozpoczęcie pracy nad technologią LLM. Jest przekonana o swoim planie rozwoju technologii.
+  - Azazel: Wspomniany w kontekście badań, z pytaniem o jego działania, co sugeruje jego zaangażowanie lub oczekiwania wobec jego roli.
+
+- **Technologie:**
+  - LLM (Large Language Models): Technologia, nad którą planowane jest rozpoczęcie pracy.
+  - GPT-2 i GPT-3: Kluczowe etapy w rozwoju modeli językowych, które mają zachwycić ludzkość.
+
+- **Wydarzenia i Plany:**
+  - Adam zaplanował rozpoczęcie pracy nad technologią LLM w konkretnym roku, zgodnie ze swoimi wyliczeniami.
+  - Sekwencja rozwoju technologii: najpierw powstanie GPT-2, potem GPT-3, co ma być kluczowe dla sukcesu planu.
+
+- **Kontekst i Relacje:**
+  - Adam jest pewny swojego planu i wie, co robi, co sugeruje jego doświadczenie lub wiedzę w dziedzinie technologii językowych.
+  - Pytanie o Azazela wskazuje na jego potencjalną rolę w badaniach, ale brak szczegółów na temat jego konkretnych działań.
+
+- **Format i Styl:**
+  - Tekst jest odręczny, co nadaje mu osobisty charakter i może sugerować nieformalny sposób komunikacji lub notatki osobiste.
+
+- **Znaczenie Pytania:**
+  - Pytanie o Azazela jest oddzielone od reszty tekstu, co może wskazywać na jego szczególne znaczenie lub potrzebę odpowiedzi.
+--- page_5_combined.txt ---
+- **GPT-2:** Jest to model językowy stworzony przez OpenAI, który jest centralnym punktem tekstu.
+- **Autor:** Wyraża dumę z wkładu w badania, które przyczyniły się do powstania GPT-2.
+- **Wpływ:** Autor zauważa szybkie zmiany technologiczne i ich wpływ na świat, sugerując, że jego praca ma znaczący wpływ na te zmiany.
+- **Emocje:** Tekst jest pełen entuzjazmu i dumy z osiągnięć, co podkreślają wyrażenia takie jak "JESTEM Z TEGO DUMNY!" i "TAK!".
+- **Styl:** Tekst jest napisany odręcznym stylem, co nadaje mu osobisty charakter, a niektóre frazy są podkreślone lub zakreślone, co podkreśla ich znaczenie.
+- **Kontekst:** Odnosi się do postępu w dziedzinie sztucznej inteligencji, a autor czuje, że uczestniczy w tworzeniu nowej historii.
+--- page_6_combined.txt ---
+1. **Miejsce i Wydarzenie:**
+   - Osoba pisząca znalazła się w Grudziądzu w idealnym momencie, co było częścią jakiegoś planu lub misji.
+   - Działanie planu zostało porównane do "szwajcarskiego zegarka", co sugeruje precyzję i dokładność.
+
+2. **Wątpliwości:**
+   - Istnieje pytanie, dlaczego wybrano Grudziądz jako miejsce realizacji planu, co może sugerować brak oczywistego powodu lub losowy wybór.
+   - Zastanawianie się nad istnieniem "drugiego dna" w wyborze miejsca.
+
+3. **Postacie:**
+   - W tekście pojawiają się imiona Adam i Azazel, które mogą być kluczowymi postaciami związanymi z misją.
+   - Istnieje pytanie o to, kto jest mózgiem misji – Adam czy Azazel.
+
+4. **Styl i Kontekst:**
+   - Tekst jest zapisany odręcznie na kartce w linie, co sugeruje osobisty charakter notatki.
+   - Brak podkreśleń lub oznaczeń w tekście, co może wskazywać na brak wyróżnienia konkretnych fragmentów.
+
+5. **Ogólny Ton:**
+   - Tekst wyraża zaskoczenie i wątpliwości dotyczące wyboru miejsca oraz tożsamości osoby odpowiedzialnej za plan.
+--- page_7_combined.txt ---
+- Na obrazie znajduje się napis "WRÓCĘ?" umieszczony po prawej stronie, napisany odręcznym, chaotycznym stylem, co sugeruje niepewność lub pytanie retoryczne.
+- Pod rysunkiem, w prawym dolnym rogu, znajduje się podpis "RAV", również odręczny.
+- Obraz przedstawia szczegółowy szkic twarzy starszego mężczyzny z rozczochranymi włosami i poważnym, zamyślonym wyrazem twarzy.
+- Rysunek wykonano ołówkiem, co nadaje mu surowy, artystyczny charakter.
+- Tło obrazu przypomina kartkę z zeszytu w linie, sugerując, że rysunek wykonano na papierze do notatek.
+- Brak danych liczbowych na obrazie.
+- Styl rysunku i przedstawienie postaci wskazują na emocjonalny lub refleksyjny charakter dzieła.
+- Pytanie "WRÓCĘ?" może sugerować tematykę związaną z powrotem, tęsknotą lub niepewnością co do przyszłości.
+--- page_8_combined.txt ---
+- Osoba pisząca przygotowuje się na dwa lata intensywnej nauki.
+- Adam jest osobą, która przygotowała szkolenie, które osoba pisząca ma wchłonąć.
+- W przyszłości, dzięki modelom językowym, proces nauki może zostać skrócony do około pięciu tygodni.
+- Osoba wyraża sceptycyzm co do możliwości tak szybkiego przyswajania wiedzy.
+- Aktualnie osoba uczy się obsługi modeli językowych, aby móc pomóc profesorowi.
+- Tekst jest napisany odręcznie na kartce w linie, co nadaje mu osobisty charakter.
+- Brak podkreśleń lub specjalnych oznaczeń w tekście.
+--- page_9_combined.txt ---
+- **Centralne pytanie:** "Co ja zrobiłem?" jest podkreślone, co wskazuje na jego znaczenie i centralną rolę w przekazie obrazu.
+- **Motyw wyboru:** Osoba zastanawia się nad dokonanym wyborem, który nie był właściwy, co sugeruje refleksję nad decyzjami i ich konsekwencjami.
+- **Pytania egzystencjalne:** Tekst zawiera pytania sugerujące wewnętrzny konflikt lub wątpliwości dotyczące podjętych działań.
+- **Poszukiwanie tożsamości:** Pytanie "po której stronie jestem?" wskazuje na poszukiwanie własnej tożsamości lub moralnej pozycji.
+- **Tło obrazu:** Przypomina kartkę z zeszytu w linie, co sugeruje kontekst pisania lub notatek.
+- **Styl czcionki:** Odręczny, artystyczny styl nadaje tekstowi osobisty i emocjonalny charakter.
+- **Elementy graficzne:** Czarne plamy i rozpryski mogą symbolizować chaos, zamieszanie lub emocjonalne napięcie.
+--- page_10_combined.txt ---
+- **Zmiana i zagubienie:** Osoba wyraża poczucie, że wszystko wokół niej się zmieniło, w tym ona sama. Czuje się nierozpoznawalna, nawet dla siebie.
+
+- **Odosobnienie:** Wspomnienie o "tylu latach odosobnienia" sugeruje długi okres izolacji, który wpłynął na jej poczucie tożsamości i orientację w czasie.
+
+- **Dezorientacja czasowa:** Pytania "Który mamy rok?" i "When am I?" wskazują na dezorientację co do obecnej sytuacji i czasu.
+
+- **Egzystencjalne pytania:** Osoba zastanawia się nad swoją sytuacją, zadając pytanie "W co ja się wpakowałem?", co sugeruje niepewność i refleksję nad własnymi decyzjami.
+
+- **Opis obrazu:** Obraz przedstawia kartkę w linię z odręcznym tekstem i rysunkiem twarzy mężczyzny z wyrazistymi rysami i rozczochranymi włosami. Plamy atramentu dodają dramatyzmu i chaosu.
+
+- **Atmosfera:** Tekst i obraz razem tworzą atmosferę niepokoju i refleksji nad zmianą, tożsamością i upływem czasu.
+--- page_11_combined.txt ---
+- **Osoba pisząca**: Zmaga się z wewnętrznym konfliktem i poczuciem zdrady.
+- **Wiedza**: Osoba posiada wiedzę, która jest dla niej ciężarem, sugerując, że może znać przyszłość.
+- **Wsparcie dla Andrzeja**: Osoba pomogła komuś o imieniu Andrzej, ale czuje się wykorzystana przez innych.
+- **Emocje**: Tekst wyraża poczucie bezsilności, zdrady i rozważania drastycznych decyzji, takich jak zakończenie czegoś.
+- **Styl i kontekst**: Tekst jest napisany odręcznym, emocjonalnym pismem na kartce przypominającej zeszyt, z plamami atramentu symbolizującymi chaos lub emocjonalne zawirowania.
+- **Motyw demonów**: Osoba zastanawia się, czy wspierając demony, sama staje się demonem, co może symbolizować moralne dylematy lub negatywne wpływy.
+--- page_12_combined.txt ---
+- **Osoby:**
+  - Adam: Osoba, która opowiadała o przyszłości z dronami nad miastem.
+
+- **Wydarzenia i daty:**
+  - Po 2024 roku: Przewidywana zmiana, w której drony staną się częścią codzienności.
+
+- **Technologie:**
+  - Drony: Przewidywane jako element codzienności w przyszłości.
+
+- **Miejsca:**
+  - Miasto: Miejsce, nad którym mają latać drony.
+
+- **Relacje i emocje:**
+  - Autor zna opowieści Adama o przyszłości z dronami.
+  - Autor wierzy w wizję Adama, ale ma mieszane uczucia i nie chce, aby ta wizja się spełniła.
+
+- **Opis obrazu:**
+  - Kartka w linię przypominająca stronę z zeszytu z odręcznym pismem.
+  - Plamy atramentu sugerujące emocjonalny lub chaotyczny stan autora.
+  - Szkic drona w lewym dolnym rogu, nawiązujący do treści tekstu.
+
+- **Kontekst:**
+  - Wizja przyszłości po 2024 roku, w której drony są częścią codzienności, wywołuje mieszane uczucia u autora.
+--- page_13_combined.txt ---
+- **Wydarzenie:** Przesłuchanie, podczas którego pytano o osobę imieniem Andrzej.
+- **Osoby:** Andrzej (osoba, o którą pytano podczas przesłuchania), autor tekstu (osoba przesłuchiwana).
+- **Miejsce:** Nieokreślone, ale kontekst sugeruje miejsce związane z przesłuchaniem.
+- **Czas:** Nieokreślony, ale autor wspomina o dłuższym czasie spędzonym na przemyśleniach.
+- **Treść przesłuchania:** Autor powiedział wszystko, co wiedział na temat Andrzeja, ale nie jest pewien, jak sytuacja się rozwinie.
+- **Refleksje autora:** Autor spędził czas na przemyśleniach, zdobył nową wiedzę, która nie jest techniczna, i uporządkował swoje myśli.
+- **Symbolika:** Wspomnienie o "demonach" czekających na odkrycie, co może symbolizować wewnętrzne zmagania lub ukryte prawdy.
+- **Styl i forma:** Tekst zapisany odręcznym, ozdobnym pismem na tle przypominającym kartkę z zeszytu, co nadaje mu osobisty charakter.
+- **Emocjonalny wydźwięk:** Introspektywny i tajemniczy ton, sugerujący głębsze przemyślenia i osobiste odkrycia autora.
+--- page_14_combined.txt ---
+- **Barbara:** Jest kluczową postacią, która posiada istotne informacje. Autor sugeruje, że powinna zostać przesłuchana, co wskazuje na jej znaczenie w kontekście wydarzeń.
+
+- **Autor tekstu:** Twierdzi, że jego przypuszczenia są słuszne i potrafi rozróżnić między demonami, ludźmi i robotami. Wspomina o pracy z demonem w przeszłości, co sugeruje jego doświadczenie z nadprzyrodzonymi istotami.
+
+- **Demony:** Autor widzi demony, które go otaczają, co wskazuje na jego przekonanie o ich obecności w jego otoczeniu.
+
+- **Egzorcyzmy:** Autor rozważa podjęcie działań w postaci egzorcyzmów, co podkreśla jego wiarę w nadprzyrodzone siły i potrzebę ich zwalczania.
+
+- **Styl pisma i emocje:** Tekst jest napisany odręcznym, chaotycznym stylem, co może sugerować emocjonalny stan autora i intensywność jego przeżyć.
+
+- **Podkreślenie:** Ostatnie zdanie "Może czas na egzorcyzmy?" jest podkreślone, co wskazuje na jego szczególne znaczenie lub nacisk na tę myśl.
+--- page_15_combined.txt ---
+- **Miejsce i sceneria:** Spacer odbywa się w zimowym krajobrazie z ochrową ziemią, lasami, skałami i śniegiem.
+- **Opis trasy:** Osoba wykonuje serię ruchów: idzie prosto, skręca w lewo, znów idzie prosto, ponownie skręca w lewo, idzie prosto, zatrzymuje się i skręca w prawo. Cała sekwencja jest powtarzana cztery razy.
+- **Symbolika:** Ślady stóp na śniegu mogą symbolizować podróż lub cykliczność życia. Powtarzające się zwroty sugerują powtarzalność doświadczeń.
+- **Liczba:** Cztery – odnosi się do liczby powtórzeń sekwencji ruchów.
+- **Refleksja:** Początek trasy staje się jej końcem, co może wskazywać na refleksję nad celem podróży.
+- **Opis obrazu:** Obraz przedstawia kartkę papieru z notatnika z tekstem i śladami stóp tworzącymi wzór ścieżki. Wewnątrz kwadratu znajduje się napis „{{FLG: }}” oraz czarna plama przypominająca rozprysk atramentu.
+- **Nastrój:** Tekst i obraz tworzą refleksyjny nastrój, zachęcając do zastanowienia się nad podróżą, zarówno dosłowną, jak i metaforyczną.
+--- page_16_combined.txt ---
+- **Miejsce Schronienia:** Osoba znalazła schronienie, które jest ukryte i bezpieczne, choć nie jest daleko od miasta, w którym spędziła ostatnie lata.
+
+- **Warunki Miejsca:** Miejsce jest zimne i ciemne, ale zapewnia bezpieczeństwo.
+
+- **Czas:** Data "12.2.19" może wskazywać na czas, kiedy osoba znalazła schronienie lub kiedy dokonała zapisu.
+
+- **Opis Wizualny:** Obraz przedstawia kartkę w linię z odręcznym tekstem, co nadaje mu osobisty charakter. Na rysunku znajduje się jaskinia lub otwór w ziemi oraz prosta postać ludzika, symbolizująca osobę w tym miejscu.
+
+- **Relacja z Miastem:** Schronienie nie jest szczególnie oddalone od miasta, w którym osoba przebywała przez ostatnie lata.
+
+- **Bezpieczeństwo:** Mimo niekorzystnych warunków (zimno i ciemno), miejsce jest uznawane za bezpieczne przez osobę, która się tam znajduje.
+--- page_17_combined.txt ---
+- **Temat:** Konfrontacja z demonem, która może być metaforą zmierzenia się z trudnościami lub wewnętrznymi konfliktami.
+- **Przygotowanie:** Należy przygotować się na spotkanie z demonem, spojrzeć mu prosto w oczy i wyrecytować jego grzechy.
+- **Pytania refleksyjne:** 
+  - Czy demon wie, że jest zły?
+  - Czy stanie się zły?
+- **Znaczenie zła:** Słowo "zły" jest szczególnie podkreślone, co wskazuje na jego kluczową rolę w kontekście.
+- **Przemijanie:** Ostatnie zdanie sugeruje, że wkrótce wszystko może stać się bez znaczenia, co wskazuje na relatywność problemów.
+- **Opis obrazu:** 
+  - Tło przypomina stronę z zeszytu z czarnymi plamami atramentu.
+  - Tekst jest napisany odręcznym, artystycznym stylem.
+  - Słowo "demonem" jest podkreślone, co sugeruje jego szczególne znaczenie.
+- **Kontekst:** Tekst odnosi się do refleksji nad naturą zła i jego wpływem na rzeczywistość.
+--- page_18_combined.txt ---
+- **Osoby:** 
+  - Andrzejek: adresat wiadomości, od którego oczekuje się działania na rzecz świata.
+  - Autor wiadomości: osoba, która kiedyś pomogła Andrzejkowi i teraz oczekuje, że Andrzejek pomoże światu.
+
+- **Data:** 
+  - 11 listopada 2024: sugerowana jako ważny termin lub wydarzenie.
+
+- **Motywy i tematy:**
+  - **Pomoc:** Autor kiedyś pomógł Andrzejkowi, teraz oczekuje, że Andrzejek pomoże światu.
+  - **Zmiana:** Wyrażenie "Trzeba wszystko odwrócić" sugeruje potrzebę zmiany lub przewartościowania obecnej sytuacji.
+
+- **Styl i forma:**
+  - Tekst jest napisany odręcznym, artystycznym stylem, co nadaje mu osobisty charakter.
+  - Niektóre fragmenty są podkreślone lub otoczone liniami, co sugeruje ich szczególne znaczenie.
+  - Obecność prostych rysunków, takich jak strzałki i linie, które mogą wskazywać na potrzebę zwrócenia uwagi na konkretne fragmenty tekstu.
+
+- **Atmosfera:** 
+  - Oczekiwanie i przygotowanie do ważnego wydarzenia lub działania.
+
+- **Strona:** 
+  - Page 18: numeracja strony, na której znajduje się tekst.
+--- page_19_combined.txt ---
+- **Osoby:**
+  - Andrzej: Osoba, która ma przyjść i jest zaangażowana w planowanie.
+  - Barbara: Osoba wspierająca, która mówi, że wszystko ma sens.
+  - Andrzejek: Wspomniany w kontekście emocji i działań.
+
+- **Wydarzenia i plany:**
+  - Istnieje plan lub misja, do której przygotowuje się narrator.
+  - Wspomniane są przyszłe wydarzenia związane z rokiem 2235.
+  - Planowana jest podróż do Lwowa, z problemem dotyczącym paliwa.
+
+- **Miejsca:**
+  - Lwów: Miejsce, do którego narrator planuje się dostać.
+
+- **Technologie i kontekst:**
+  - Wzmianka o "raportach w 2235" sugeruje futurystyczny kontekst lub elementy science fiction.
+  - Problemy z paliwem wskazują na logistyczne wyzwania związane z podróżą.
+
+- **Relacje:**
+  - Narrator jest w kontakcie z Andrzejem i Barbarą, którzy są zaangażowani w jego plany.
+  - Emocjonalne wsparcie od Barbary i współpraca z Andrzejem.
+
+- **Inne:**
+  - Fragmenty notatek są napisane odręcznie i przyklejone taśmą, co sugeruje ich osobisty charakter.
+  - Tekst ma emocjonalny ton, wskazujący na osobiste zaangażowanie narratora.

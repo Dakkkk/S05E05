@@ -1,0 +1,1296 @@
+[METADATA]
+id: 1
+source: blog_rafala.txt
+date_created: 2024-12-06
+category: technical_docs
+
+[CONTENT]
+Musze opowiedzieć tę historię.
+==============================
+
+Tylko dla Twoich oczu. Czytaj po kolei, aby poznać moją historię.
+
+Rozdział #01
+------------
+
+Wielu mówi, że moje rozpoczęcie pracy z profesorem Majem było zupełnym przypadkiem. Po prostu trafiło się ślepej kurze ziarno i dostałem się do instytutu badawczego, w którym akurat był profesor. I akurat stałem się jego asystentem. Brzmi to całkiem nieźle, ale nie ma wiele wspólnego z prawdą.
+
+Prawda jest taka, że zostało to wszystko od początku do końca zaplanowane. Wkręcono mnie do instytutu, dano mi odpowiednie stanowisko i zadbano o to, abym był w stanie współpracować z profesorem w sposób bezpośredni. Wtedy jeszcze profesor nie wiedział tak naprawdę, w którą stronę pójdą jego badania. Są jednak ludzie, i choć brzmi to może teraz dość enigmatycznie, to jest to jednak prawda. Są ludzie z przyszłości, którzy wiedzą co się stanie i to oni wiedzieli, do czego te badania doprowadzą.
+
+Dlatego też zostałem tam obsadzony, aby mieć wszystko na oku i raportować wszystko do instytucji, którą umownie nazwaliśmy centralą. Przez długi czas nie znałem w centrali nikogo. Wielkie instrukcje dostawałem w sposób elektroniczny i w pełni anonimowy. Oczywiście moja praca nie była charytatywna, co to to nie. Byłem odpowiednio za to wynagradzany.
+
+Systematycznie raportowałem jak posuwają się prace nad nowymi technologiami. Miałem też sugerować profesorowi jak można byłoby tę pracę usprawnić, aby cel naszych badań -- zaawansowane modele językowe -- został osiągnięty szybciej. Centrala stwierdziła jednak, że aktualne tempo rozwoju prac jest stanowczo zbyt wolne. I jedynym sensownym podejściem, które możemy teraz przedsięwziąć było -- i wiem, że to brzmi absurdalnie -- skoczenie w czasie.
+
+Nie w przyszłość, a w przeszłość. Po to, aby obecne wyniki badań przenieść mniej więcej o dwa lata wstecz. W ten sposób profesor, gdy dostanie je do rąk, oczywiście stwierdzi, że wpadł na genialny pomysł i zacznie prowadzić swoje badania od kolejnego szczebla, co sprawi, że upragniona przez nas technologia szybciej ujrzy światło dzienne.
+
+Powiem szczerze, że gdy pierwszy raz usłyszałem o tym pomyśle, pomyślałem, że jest to jakiś rodzaj żartu. Najchętniej powiedziałbym osobie, która do mnie pisze po prostu jesteś szalona! Jedyne co mnie trzymało przy tym, aby nadal wykonywać polecenia Centrali była solidna wypłata.
+
+Kiedy po raz pierwszy poznałem osobiście kogoś z Centrali, przedstawił się jako Adam. Miły i sympatyczny człowiek obdarzony ogromną wiedzą. Powiedział mi, że technologie z jakimi pracował nie są jeszcze znane ludziom w obecnych czasach. Nie wie on jednak jak te technologie będą kształtować się w ciągu najbliższych lat.
+
+Plan jaki mi przedstawił był dość prosty: muszę cofnąć się w czasie o dwa lata -- bo mniej więcej tyle czasu brakuje nam w obecnym tempie projektów do tego, aby ukończyć wszystko na czas. Po skoku przez te dwa lata musiałem tak naprawdę zrobić dwie rzeczy: przekazać dokumenty odpowiednim osobom a po drugie rozbudować swoje zdolności programistyczne o umiejętności integracji systemów IT z modelami językowymi.
+
+Druga część zadania miała być w pełni obsługiwana przez Adama, który dostarczył mi kurs na którego przerobienie miałem dwa lata. Adam wspominał coś o narzędziach takich jak CziPiTea czy tam GPT oraz kursor (czymkolwiek to jest), które sprawią że przerobienie tego materiału może ludziom zająć nawet pięć tygodni. No i nie chciało mi się za bardzo w to wierzyć.
+
+Posłuchałem go jednak. Piszę te notatki z perspektywy czasu -- nie są one spisywane przeze mnie na bieżąco. Jadę właśnie pociągiem do Grudziądza. Będziemy zastanawiać się dlaczego akurat Grudziądz? O tym później. Ale najpierw opowiem Ci inną historię...
+
+Rozdział #02
+------------
+
+Pamiętam była jesień. Ten szczególny dzień - jakby to było wczoraj. Czekałem na niego przez lata i w końcu nadszedł. No bo jak mogło być inaczej? Adam mówił, że do tego czasu system do transportu obiektów w czasie będzie już gotowy. Testowaliśmy go wcześniej, próbując przesyłać dane, owoce, a nawet, o czym komisja etyki nie wie, małe zwierzątka. Z różnym skutkiem. Część transportów się udała, a część nie.
+
+Dostałem jednak instrukcje, jak używać tej maszyny tak, aby udało się przesłać homo sapiens. Trzeba podkreślić, że cała koncepcja urządzenia została zmieniona tak, aby zmieścił się tam dorosły człowiek, a ściślej -- człowiek moich rozmiarów. Początkowo projektowaliśmy maszynę tak, żeby wszedł tam maksymalnie duży arbuz czy ananas.
+
+Maszyna była gotowa, nie miałem szczegółowej instrukcji obsługi, ale wiedziałem, jak ją zaprogramować. Musiałem cofnąć się do 2019 roku i wtedy zapoczątkować wielką rewolucję związaną ze sztuczną inteligencją. Miałem pomóc w wypuszczeniu na świat modelu GPT-2. Nie był on szczególnie widowiskowy, ale miał pokazać ludziom pewną zajawkę tego, co można zrobić za pomocą sztucznej inteligencji i jak LLM-y działają w praktyce.
+
+Przeszło to raczej bez większego szumu w mediach, czemu się dzi
+
+[METADATA]
+id: 2
+source: blog_rafala.txt
+date_created: 2024-12-06
+category: technical_docs
+
+[CONTENT]
+że teraz je odczuwam. Głównie dlatego, że skok wykonałem z dodatkowym elementem -- pizzą. Stało się tak, bo ten skok... no przyznam się: nie odbył się tak na całkiem trzeźwo, ale dobra, to chyba nie jest ważne.
+
+Wróćmy do Azazela. Azazel współpracuje bezpośrednio z Centralą i Ruchem Oporu. Na początku myślałem, że moja misja ma na celu przyspieszenie rozwoju technologicznego. Od Azazela dowiedziałem się, że nie do końca tak jest. W 2024 roku technologia rozwinęła się do tego stopnia, że roboty przejęły kontrolę nad światem.
+
+Trudno w to uwierzyć, ale widząc takiego człowieka jak Azazel, nabrałem pewności, że może być w tym trochę prawdy. Według Azazela celem misji było zmienienie kierunku rozwoju sztucznej inteligencji. Chodziło o to, by profesor Maj nigdy nie podjął decyzji o stworzeniu samoświadomej sztucznej inteligencji, która doprowadzi do upadku ludzkości.
+
+Azazel wspominał, że Centrala powołuje specjalnych agentów -- bezimiennych bohaterów, którzy niestety rzadko kończą swoje misje sukcesem, a mówić już bardziej szczerze: oni nie żyją zbyt długo.
+
+Opowiedział mi o numerze pierwszym, drugim, trzecim i czwartym. Teraz rekrutowany jest numer piąty, który według Azazela ma być ostatnim agentem wysłanym w przeszłość. Tak jak się teraz zastanawiam to nie pamiętam by wspominał by któremuś się udało.
+
+Zadaniem numeru piątego było opanowanie tego, czego ja uczyłem się przez ostatnie dwa lata oraz zbieranie wszelkich śladów i artefaktów prowadzących do profesora Maja. Można zapytać: co znaczy doprowadzić nas do profesora Maja, skoro on pewnie siedzi w swoim laboratorium?
+
+Otóż, nie tym razem!
+
+Po moim zniknięciu minęło kilka miesięcy i profesor także zniknął. Jedni mówią, że został porwany przez roboty. Jednak według Azazela roboty też go szukają, więc to mało prawdopodobne. Inni twierdzą, że profesor uświadomił sobie skutki swoich badań i postanowił zniknąć z życia publicznego. Jeszcze inni twierdzą, że dołączył do ruchu oporu, ale ludzie z ruchu też go szukają...
+
+Mówiąc krótko. Efekt jest taki, że nikt nie wie, gdzie jest profesor Maj.
+
+Rozdział #04
+------------
+
+Numer 5 został przetransportowany do 2024 roku. Już wtedy, razem ze mną, od ponad dwóch lat czekał na niego Azazel. Możesz zapytać, dlaczego Azazel po prostu nie przeniósł się w czasie i nie wylądował dokładnie w momencie, w którym pojawia się w Polsce numer 5. Jest jedna rzecz, o której Azazel nie mówi, a o której dowiedziałem się swoimi kanałami. On utracił już możliwość skakania w czasie.
+
+Nadal nosi tę swoją śmieszną zbroję, nadal nosi maskę, bo jest zawsze przygotowany na to, żeby móc wylądować w terenie, który będzie zatruty -- o czym często mi wspominał. Ale tak naprawdę nie ma na to szans. Jakiś czas temu z fabryki robotów ukradł urządzenie. To personalne urządzenie do skoków w czasie. Problem w tym, że wymaga zasilania, które jest co prawda obecne w 2024 roku, ale nie istnieje jeszcze w 2019. Tak więc nie ma możliwości uruchomienia go.
+
+To sprawiło, że Azazel musi cierpliwie poczekać do momentu, w którym technologia będzie wystarczająco zaawansowana, aby mógł ponownie wykonywać swoje skoki w czasie. Cieszmy się, że nie cofnął się na przykład o 100 albo 200 lat wstecz, bo to mogłoby sprowadzić na niego ogromny problem - nie do rozwiązania.
+
+Pisałem wcześniej, że przez ostatnie lata znajdowałem się w Grudziądzu. I oczywiście, jeżeli czytasz ten dziennik, możesz się zastanawiać dlaczego akurat to miasto. A no dlatego, że jest tam jedno z centrów danych napędzających współczesne AGI. Dodatkowo znajduje się tam fabryka broni. Mając w pobliżu te dwa strategiczne miejsca, mogłem cały czas sprawdzać, co dzieje się u robotów i jaki jest postęp ich prac nad nowymi technologiami.
+
+W Grudziądzu kilkukrotnie spotkałem się z profesorem Majem. Wspominałem mu o tym, czego dowiedziałem się od Azazela. Powiedziałem, że kierunek jego badań jest bardzo niebezpieczny i należy go zmienić. Jednak profesor nie uwierzył mi. Biorąc pod uwagę, że jego prace nad sztuczną inteligencją jeszcze nie zostały rozpoczęte, a jego koncepcja podróży w czasie nawet nie jest szkicem -- profesor potraktował mnie jak kolejnego wariata, który naoglądał się zbyt wielu filmów science fiction i teraz zaczyna bredzić.
+
+Dostałem instrukcję, aby do roku 2024 nie próbować kontaktować się z profesorem. Miałem jednak wewnętrzną nadzieję, że gdy szczerze z nim porozmawiam, on zmieni swoje podejście. Zrozumie. Była to jednak złudna ale ostatnia nadzieja.
+
+Rozdział #05
+------------
+
+Azazel podróżując w czasie używał swojej zbroi. Numer piąty pojawił się także w specjalnym skafandrze. Tylko ja pojawiłem się z pizzą hawajską w ręce. Nikt mi nie powiedział mi o konsekwencjach związanych z podróżą w czasie. Pytanie jednak brzmi, czy ludzie, którzy mnie do tego namówili, w ogóle wiedzieli, jakie są konsekwencje?
+
+Powinienem był zapytać. No i cóż takiego złego się sta
+
+```
+[METADATA]
+id: 3
+source: blog_rafala.txt
+date_created: 2024-12-06
+category: technical_docs
+
+[CONTENT]
+kółko.
+
+Ale pojawiła się pewna nieoczekiwana okoliczność. Akurat w momencie przesłuchiwania przydarzył mi się jeden z napadów. Więc uwierz mi, nie musiałem się starać, aby ukryć wszystkie informacje, które miałem o profesorze Maju. Ledwo wiedziałem, kim jestem, jestem sobie, a co dopiero kim jest profesor.
+
+Wiem, że mówiłem wiele złych rzeczy o profesorze, ale muszę przyznać, że nie wszystkie były kłamstwem. Było tam sporo prawdy.
+
+Rozdział #07
+------------
+
+Po skoku w czasie, jak już wiesz, poznałem Azazela. To jemu wręczyłem dokumenty. On miał przekazać je przedstawicielowi ruchu oporu. Nie wiem, jak ten gość się nazywa, ale dowiedziałem się, że dokumenty dotarły do niego, a potem powędrowały dalej do dziewczyny imieniem Barbara. Prawdopodobnie była to jego dziewczyna, żona czy po prostu partnerka.
+
+W każdym razie miała ona przechować te dokumenty przez pewien czas. Ponieważ znała się na programowaniu i cybersecurity, miała opracować metody, które pomogą nam pokonać roboty w tamtych czasach. Barbara jednak zniknęła. Zupełnie jak profesor Maj. Wypuszczono za nią listy gończe, przesłuchiwano świadków i przeszukiwano wszystkie miejsca, gdzie kiedyś mieszkała. Rozmawiano nawet ze studentami, z którymi studiowała na uczelni.
+
+Ślad po Barbarze zaginął. Zniknęła nie tylko fizycznie, ale także wirtualnie. Przez długi czas nikt nie wiedział nawet, jak wyglądała, ponieważ wszystkie dane wyparowały z systemów. Wyparowały też jej profile w mediach społecznościowych i archiwalne wersje strony domowej oraz bloga. Zniknęło absolutnie wszystko. Było minęło.
+
+Ale czy aby na pewno? Któregoś dnia odebrałem telefon. Było to dziwne, bo tylko Azazel znał ten numer telefonu. To była linia awaryjna. Tymczasem w słuchawce odezwała się kobieta i powiedziała: Cześć, tu Barbara.
+
+Rozdział #08
+------------
+
+Rozmawiałem z Barbarą przez telefon przez blisko dwie godziny. To była długa, męcząca i psychicznie wyczerpująca rozmowa. Biorąc pod uwagę mój stan i naprawdę kiepski poziom skupienia, cudem było to, że wytrwałem do końca.
+
+Barbara rozbudowała historię, którą usłyszałem od Azazela. Dowiedziałem się o istnieniu gościa zwanego Zygfryd. Podpisuje się jako Zygfryd M, tajemnicza litera M. Co to może znaczyć? Azazel mówi, że tak naprawdę to on jest wysłannikiem Zygfryda i ściśle z nim współpracuje.
+
+Zygfryd ponoć współpracuje z Centralą, ale to nie zgadza się z tym, co mówi Barbara. Ona twierdzi, że Zygfryd jest po niewłaściwej stronie barykady, że pociągał za sznurki w Centrali, ale nie jest pozytywną postacią w całej tej opowieści.
+
+Celem Zygfryda jest odnalezienie prof. Maja. To się zgadza. Jego celem jest także przyspieszenie rozwoju sztucznej inteligencji. To też się zgadza. Chce również mieć sztuczną inteligencję pod kontrolą -- temu też nie można zaprzeczyć.
+
+Problem w tym, że wizja świata, jaką ma Zygfryd, nie do końca pokrywa się z tym, jak ten świat chcą widzieć inni ludzie. Krótko mówiąc, Zygfryd chciałby przejąć kontrolę nad robotami tak, aby służyły ludziom -- a dokładniej jemu -- a inni ludzie by służyli tym robotom.
+
+Myślę, że rozumiesz do czego zmierzam. Absolutnie niezbędnym elementem układanki jest prof. Andrzej Maj. On ukierunkuje swoje badania tak, żeby roboty zyskały samoświadomość, ale jednocześnie cały rozwój pójdzie w kierunku, który pozwoli Zygfrydowi przejąć kontrolę nad nimi.
+
+Mówiąc jeszcze prościej: pomagając Zygfrydowi wcale nie zapobiegasz końcu świata takiego, jaki znamy. Po prostu tworzysz nową wersję końca tego świata. Dzięki temu, co robi Zygfryd, świat przestanie istnieć i zmieni się w tyranię jednego człowieka -- człowieka ponadczasowego.
+
+Można by zapytać: gdzie znajduje się Zygfryd? Ale lepszym pytaniem jest: kiedy znajduje się Zygfryd?
+
+Rozdział #09
+------------
+
+Jest jedna rzecz, która może Ci się nie zgadzać. Skoro Azazel jest "tym dobrym", ale pracuje dla Zygfryda, oraz Barbara kontaktuje się ze mną i twierdzi, że jest "dobra", ale także pracuje dla Zygfryda, to jak ta historia się spina? Chociaż to o niczym nie swiadczy to nic nie znaczy. Jest takie powiedzenie: trzymaj swoich przyjaciół blisko siebie, ale wrogów jeszcze bliżej. To taktyka, którą stosują Azazel i Barbara.
+
+Podczas realizacji misji pojawił się pewien problem. Wygląda na to, że dr Maj wszedł we współpracę z Zygfrydem i otrzymał już znaczną część dokumentów, z puli tych, które przekazałem Azazelowi, a które ostatecznie trafiły do Barbary. Nie jest to jednak komplet wszystkich raportów. Nie umożliwiają one pchnięcia badań nad sztuczną inteligencją tak bardzo do przodu, jakby tego wymagał Zygfryd.
+
+Zygfryd prawdopodobnie będzie chciał mnie dorwać. Obawiam się, że niestety istnieje ogromne prawdopodobieństwo, że mu się to uda. Dlatego muszę się stąd ewakuować. Zdecydowanie nie mogę zostać w swoim mieszkaniu i muszę znaleźć
+
+[METADATA]  
+id: 4  
+source: blog_rafala.txt  
+date_created: 2024-12-06  
+category: technical_docs  
+
+[CONTENT]  
+przekonać, bym odpowiedzialnie dawkował wyniki badań profesorowi i kontrolował ich postęp. Mówiłem jej, że tak będę robił i żeby się nie obawiała. Sam jednak wymyśliłem plan, w którym profesor znika z powierzchni ziemi.  
+
+Dowiedziałem się też, czym jest tajemnicze M w nazwisku Zygfryd -- to skrót od Maj! To potomek profesora Andrzeja Maja. Mogę doprowadzić do sytuacji, w której Zygfryd nigdy się nie urodzi. Po prostu zabiłbym jego pradziadka i problem rozwiązany.  
+
+Jednocześnie samoświadoma sztuczna inteligencja nigdy nie powstanie, ponieważ jedynym człowiekiem zdolnym do jej stworzenia był profesor Andrzej Maj, którego niebawem się pozbędę.  
+
+Na kilka minut przed spotkaniem z profesorem zaprogramowałem swój komputer tak, aby automatycznie wysłał brakujące badania związane z podróżami w czasie oraz samoświadomą sztuczną inteligencją, wprost do centrali, gdy tylko ktokolwiek odczyta tę notatkę.  
+
+Założyłem, że jedynym człowiekiem mogącym zalogować się tutaj jest Azazel. Jeśli więc czytasz te słowa, mamy dwie opcje:  
+
+Opcja pierwsza: Świat, z którego pochodzisz już nie istnieje, bo roboty nie doszły do władzy i samoświadoma sztuczna inteligencja nigdy nie powstała.  
+
+Opcja druga: Być może "Rafał" już nie żyje i wszystko poszło niezgodnie z planem, a Ty czytasz właśnie moje epitafium, które sam sobie napisałem.  
+
+Stąd cała ta automatyzacja moich działań. Czy siedzę teraz w Szwajcarii, czy właśnie zeskrobują moje szczątki ze ścian jaskini -- chcę, abyś wiedział Azazelu, że udało mi się wykonać moją misję. Dane są w rękach Centrali, a o to przecież chodziło.  
+
+Pozostaje jednak jeden element układanki, z którym musisz mi pomóc. Jeśli to tylko możliwe, wykorzystaj do tego numer piąty.  
+
+Rozdział #11  
+------------  
+
+Niezależnie od tego, jak potoczyłyby się losy moje i profesora Maja, to i tak udałoby się nam zmienić świat od punktu, w którym się znajdujemy, w przyszłość. Tego co za nami, nie zmienimy. Nie zmienimy także teraźniejszości. Roboty nadal kontrolują nasze otoczenie i musimy się ich obawiać - tak wyglądają fakty.  
+
+We współpracy z ludźmi z centrali udało mi się namierzyć coś, co możemy nazwać "sercem systemu robotów". Jest to API, którego roboty używają do uaktualniania swoich informacji. Jeśli udałoby nam się zatruć ich źródło wiedzy, prawdopodobnie doprowadzilibyśmy do zapaści systemu sterującego robotami. A to oznaczałoby, że ruch oporu mógłby bez większych przeszkód przejąć wszystkie fabryki i centra danych, które napędzają obecny reżim.  
+
+Jedyne, co musimy zrobić, to przygotować odpowiednie "oprogramowanie zatruwające". Problem polega na tym, że roboty wcale nie są takie głupie. Mają swoje mechanizmy, które potrafią odróżnić dane zatrute od tych poprawnych. Musimy więc tak manipulować tymi danymi, aby przeszły one przez weryfikację. Jest to zadanie niezwykle skomplikowane.  
+
+Ale wierzę, że numer piąty, który przeszedł to samo szkolenie co ja i był poddany elitarnej selekcji w przyspieszonym tempie, będzie w stanie zaprogramować dla nas takie rozwiązanie, które zatruje "serce systemu robotów" - wtedy ludzkość będzie ocalona.  
+
+Jakby coś, to jestem w Szwajcarii 🇨🇭.  
+
+Do zobaczenia "w przyszłości" 👋  
+
+Jeśli dotarłeś do tego miejsca, centrala otrzymała już wszelkie niezbędne dane 📨.
+
+```
+[METADATA]
+id: 5
+source: transkrypcje_rozmow.txt
+date_created: 2024-12-06
+category: technical_docs
+
+[CONTENT]
+ROZMOWY 
+1. rozmowa1:
+speaker Barbara
+text Hej! Jak tam agentko? Jak się czujesz po rozmowie?
+index 1
+
+speaker Samuel
+text No cześć. Trochę nieswojo, ale jakoś to będzie. On był w naprawdę kiepskim stanie. Trudno się z nim rozmawiało
+index 2
+
+speaker Barbara
+text Ale zrozumiał coś z tego, co mu powiedziałaś?
+index 3
+
+speaker Samuel
+text ten stan nawet ułatwiał, a nie utrudniał zadanie. Chłonął wiedzę jak gąbka. Myślę, że wszystko zrozumiał.
+index 4
+
+speaker Barbara
+text To dobrze, że zrozumiał. A co z tymi dokumentami, o których rozmawialiśmy?
+index 5
+
+speaker Samuel
+text dokumenty? Mówił, że wszystko ma w komputerze, ale gość nie miał przy sobie żadnego sprzętu. W tej norze nawet prądu nie było.
+index 6
+
+speaker Barbara
+text To co teraz zrobimy? Trzeba ich szukać u niego w mieszkaniu, bo tam chyba zostawił sprzęt?
+index 7
+
+speaker Samuel
+text pewnie tak, ale gdzie jest to jego mieszkanie? Obecnie to chyba ta jaskinia nazywana jest przez niego "domem" hahaha
+index 8
+
+speaker Barbara
+text a zdalny dostęp do jego kompa wchodzi w grę jeśli nie możemy iść do mieszkania?
+index 9
+
+speaker Samuel
+text myślę, że tak. Zdalnie sobie poradzimy. Goście z centrali kombinują coś z przeszukiwaniem całej puli adresów IP. Jak tylko coś znajdą, to dam Ci znać. Sama jestem ciekawa na ile on zabezpieczył swój sprzęt i co tam w miał w środku.
+index 10
+
+speaker Barbara
+text no to czekam na informację jak już znajdą to IP, a on jest już z Tobą?
+index 11
+
+speaker Samuel
+text nie ma go tutaj. Wiesz co... trochę się sprawy pokomplikowały. Niezupełnie to wszystko poszło zgodnie z planem.
+index 12
+
+speaker Barbara
+text poszło niezgodnie z planem? uciekł Ci gość?
+index 13
+
+speaker Samuel
+text nie uciekł. Gość nie żyje... Goście z centrali wysłali tam drona. Dowiedziałam się o wszystkim z raportu
+index 14
+
+speaker Barbara
+text coooo? jak to możliwe? Rozmawiamy, a Ty jakby nigdy nic mówisz, że "nie żyje"? Kiedy miałaś zamiar mi powiedzieć? no i skąd oni wiedzieli gdzie szukać? To była przecież jaskinia na odludziu!
+index 15
+
+speaker Samuel
+text czy to jest teraz ważne skąd?! Andrzej miał nadajnik GPS w samochodzie, to go namierzyli nawet na tym odludziu. No zawaliłam z tym. Wiem, ale ważniejsze jest teraz to, że gość nie żyje i nie mamy dostępu do jego komputera. To jest najważniejsze. Kurwa, wiesz [*niesłyszalne*], żal mi gościa... 
+index 16
+
+speaker Barbara
+text żal Ci... żal... ale on nie wykonał zadania. Fuck!!!!
+index 17
+
+speaker Samuel
+text no nie wykonał! i już raczej nie wykona w tym stanie... Andrzeja też już nie ma i nie wiadomo gdzie jest. Zwiał
+index 18
+
+speaker Barbara
+text no to wyciągnij z centrali informację w którym kierunku pojechał Andrzej!
+index 19
+
+speaker Samuel
+text problem w tym, że zostawił swój samochód, więc nie za bardzo "pojechał". Może on mu powiedział o nadajniku?
+index 20
+
+speaker Barbara
+text a to on wiedział, że Andrzej ma nadajnik w samochodzie?
+index 21
+
+speaker Samuel
+text a kto to wie... przecież [*niesłyszalne*] nigdy nie wiadomo co on tam wiedział i czy był świadomy nadajnika. Możemy się tylko domyślać.
+index 22
+
+speaker Barbara
+text Dobra. Uznajmy, że wiedział o nadajniku. A zostały jakieś Twoje ślady w jaskini jak tam byłaś? mogą się zorientować, żę go odwiedzałaś?
+index 23
+
+speaker Samuel
+text byłam tam normalnie, jawnie. Umówiłam się oficjalnie, że będę go uczyła JavaScriptu. Miał mu się przydać do szkolenia tego, co teraz przerabia. Na papierze treść lekcji czyta, to mu chciałam trochę potłumaczyć to wszystko. Nie chciałam przecież mówić wprost po co przyjeżdżam.
+index 24
+
+speaker Barbara
+text no ja nie mogę... na czym go miałaś uczyć tego JavaScriptu? Gość nie ma kompa czaisz?! Na glinianych tabliczkach mieliście pisać te programy dłutem? Teraz wiedzą, że tam byłaś! Dobra, nara! Mam Zygfryda na drugiej linii [*dźwięk odkładanej słuchawki*]
+index 25
+
+
+2. rozmowa2:
+speaker Samuel
+text Witaj Samuelu. Rozmawiałeś z nią?
+index 1
+
+speaker Zygfryd
+text tak. Dosłownie przed chwilą rozmawiałem, gdy zadzwoniłeś, ale nic od niego nie wydobyła
+index 2
+
+speaker Samuel
+text dlaczego? nie wykonała zadania? co z nią?
+index 3
+
+speaker Zygfryd
+text rozmawiała z nim, ale nie zdołała zdobyć brakujących informacji. Mówił, że wszystko ma w komputerze, ale nie miał przy sobie żadnego sprzętu. Do tego durna baba jako wymówkę wzięła "naukę JavaScriptu". Czaisz? dżejesa go będzie uczyć! W centrali mają teraz pewnie niezły ubaw. Poza tym, to... Zygfryd, Ty słyszałeś co się stało?
+index 4
+
+speaker Samuel
+text Tak Samuelu. Słyszałem. Wiem o wszystkim. Przede mną się to nie ukry
+
+[METADATA]
+id: 6
+source: transkrypcje_rozmow.txt
+date_created: 2024-12-06
+category: technical_docs
+
+[CONTENT]
+4. rozmowa4:
+speaker Samuel
+text Cześć Tomasz. Tu Samuel. Dostałem ten numer od szefa. Potrzebuję hasła do pierwszej warstwy zabezpieczeń kompa sam wiesz kogo. Możesz mi pomóc?
+index 1
+
+speaker Tomasz
+text Aaaa hej! hej!. Tak, mogę Ci pomóc. Hasło do pierwszej warstwy to "NONOMNISMORIAR".
+index 2
+
+speaker Samuel
+text mmmm... takie filozoficzne to hasło i w sumie pasuje teraz do kontekstu haha! Spoko. Dzięki. A kolejne warstwy?
+index 3
+
+speaker Tomasz
+text Nie wiem. Siedzę nad tymi warstwami już od kilku dni i powiem Ci, że on musiał używać technologii z przyszłości, bo nasze LLM-y są zbyt wolne, aby przejść kolejne warstwy weryfikacji. Bez skoku w czasie i pomocy Zygfryda chyba się nie uda
+index 4
+
+speaker Samuel
+text wiesz dobrze, że skakać w czasie może teraz tylko Azazel, a z nim to nie ma rozmowy. Ale dobra... Zygfryd nakręci numer piąty na złamanie tego.
+index 5
+
+speaker Tomasz
+text to piątka nadal się niczego nie domyśla?
+index 6
+
+speaker Samuel
+text piątka to posłuszna owieczka. Wykonuje polecenia, ale nie wie co robi. Dobra, dzięki za hasło. Przekażę je numerowi piątemu [*dźwięk odkładanej słuchawki*]
+index 7
+
+
+5. rozmowa5:
+speaker Witek
+text Halo? Jesteś tam? tu Witek. Potrzebuję Twojej pomocy.
+index 1
+
+speaker Barbara
+text no siema Witek! Jestem, jestem. Rozmawiałam z Samuelem. Chyba się na mnie trochę wkurzył. Jak Ci mogę pomóc?
+index 2
+
+speaker Witek
+text Ty się znasz na programowaniu, security i tym całym IT, nie? Potrzebuję pomocy w złamaniu zabezpieczeń komputera. Mam endpoint API. Możesz mi w tym pomóc?
+index 3
+
+speaker Barbara
+text no to daj adres do API. Pokombinuję coś sama, albo zapytam mądrzejszych od siebie
+index 4
+
+speaker Witek
+text trzymaj, to jest ten endpoint do API: https://rafal.ag3nts.org/b46c3 ale nie mam hasła do niego
+index 5
+
+speaker Barbara
+text a skąd Ty masz ten endpoint i do tego bez hasła? Jak go zdobyłeś?
+index 6
+
+speaker Witek
+text aaa wiesz. Ten Twój "nauczyciel" mi go dostarczył, ale hasła jeszcze nie zdobył, ale pracuje on nad tym
+index 7
+
+speaker Barbara
+text haha... przestań tak o nim mówić. Wiesz przecież, jak on się wkurza, gdy się go nazwie nauczycielem. Dobra, daj mi chwilę. Będę próbowała coś z tym pokombinować.
+index 8
+
+speaker Witek
+text jasne mała! powodzenia z tym kombinowaniem. Bądź jak Helmut Rahn w 1954 roku i pokaż im na co Cię stać! [*dźwięk odkładanej słuchawki*]
+index 9
+
+ROZMAWIAJĄCY:
+Witek
+Barbara
+Tomasz
+Zygfryd ()
+Samuel
+
+[METADATA]
+id: 7
+source: notatnik_zygfryda.txt
+date_created: 2024-12-06
+category: technical_docs
+
+[CONTENT]
+--- page_1_combined.txt ---
+1. **Wydarzenie:** Autor obsługiwał skomplikowany sprzęt będąc nietrzeźwym, co uważa za zły pomysł.
+2. **Sprzęt:** Maszyna, która ma zdolność przenoszenia w czasie.
+3. **Stan emocjonalny:** Autor odczuwa żal, niepokój i niedowierzanie w związku z sytuacją, w której się znalazł.
+4. **Konsekwencje:** Autor nie jest pewien, jakie będą skutki jego działań, ale obawia się, że mogą być negatywne.
+5. **Czas i miejsce:** Autor sugeruje, że znalazł się w innym czasie, co jest dla niego nienormalne i zaskakujące.
+6. **Opis fizyczny:** Tekst jest napisany odręcznie na kartce z zeszytu, a obecność plamy może sugerować emocjonalny lub chaotyczny stan autora.
+7. **Emocje:** Tekst wyraża refleksję nad decyzjami i ich potencjalnymi konsekwencjami, co wskazuje na stan niepewności i dezorientacji.
+--- page_2_combined.txt ---
+- **Osoba:** Rafał - autor tekstu, który wielokrotnie podkreśla swoją normalność.
+- **Główne stwierdzenie:** "Jestem normalny" - powtarzane wielokrotnie, co sugeruje próbę przekonania siebie lub innych o swojej normalności.
+- **Podkreślenie:** Fragment "To wszystko dzieje się naprawdę" jest podkreślony, co może wskazywać na jego szczególne znaczenie lub próbę przekonania się o prawdziwości sytuacji.
+- **Kontrast:** Ostatnie zdanie "Świat jest nienormalny" sugeruje, że Rafał postrzega problem w otaczającym go świecie, a nie w sobie.
+- **Forma tekstu:** Napisany odręcznym, chaotycznym stylem, co może sugerować emocjonalny lub niepewny stan autora.
+- **Tło obrazu:** Kartka w linię, przypominająca kartkę z zeszytu, co może wskazywać na osobisty, intymny charakter notatki.
+- **Element graficzny:** Szara plama na dole po prawej stronie, mogąca być przypadkowym zabrudzeniem lub celowym elementem.
+- **Interpretacja:** Tekst może być wyrazem niepokoju, zagubienia lub próby odnalezienia się w chaotycznej rzeczywistości.
+--- page_3_combined.txt ---
+1. **Spotkanie z Azazelem:**
+   - Autor spotkał osobę, która przedstawiła się jako Azazel.
+   - Azazel twierdzi, że pochodzi z przyszłości.
+
+2. **Podróże w czasie:**
+   - Autor jest sceptyczny wobec twierdzeń Azazela, ponieważ nikt wcześniej nie cofnął się w czasie.
+
+3. **Wiedza Azazela:**
+   - Azazel posiadał wiedzę na temat badań, nad którymi autor pracował z profesorem Majem.
+
+4. **Przekazanie badań:**
+   - Autor przekazał Azazelowi wyniki badań, które zabrał z laboratorium.
+
+5. **Profesor Maj:**
+   - Wspomniany jako współpracownik autora w kontekście prowadzonych badań.
+
+6. **Styl i kontekst:**
+   - Tekst jest odręcznie napisany, co może sugerować emocjonalny stan autora.
+   - Elementy science fiction, takie jak podróże w czasie i tajemnicze postacie z przyszłości, są obecne w tekście.
+--- page_4_combined.txt ---
+- **Osoby:**
+  - Adam: Osoba, która wybrała konkretny rok na rozpoczęcie pracy nad technologią LLM. Jest przekonana o swoim planie rozwoju technologii.
+  - Azazel: Wspomniany w kontekście badań, z pytaniem o jego działania, co sugeruje jego zaangażowanie lub oczekiwania wobec jego roli.
+
+- **Technologie:**
+  - LLM (Large Language Models): Technologia, nad którą planowane jest rozpoczęcie pracy.
+  - GPT-2 i GPT-3: Kluczowe etapy w rozwoju modeli językowych, które mają zachwycić ludzkość.
+
+- **Wydarzenia i Plany:**
+  - Adam zaplanował rozpoczęcie pracy nad technologią LLM w konkretnym roku, zgodnie ze swoimi wyliczeniami.
+  - Sekwencja rozwoju technologii: najpierw powstanie GPT-2, potem GPT-3, co ma być kluczowe dla sukcesu planu.
+
+- **Kontekst i Relacje:**
+  - Adam jest pewny swojego planu i wie, co robi, co sugeruje jego doświadczenie lub wiedzę w dziedzinie technologii językowych.
+  - Pytanie o Azazela wskazuje na jego potencjalną rolę w badaniach, ale brak szczegółów na temat jego konkretnych działań.
+
+- **Format i Styl:**
+  - Tekst jest odręczny, co nadaje mu osobisty charakter i może sugerować nieformalny sposób komunikacji lub notatki osobiste.
+
+- **Znaczenie Pytania:**
+  - Pytanie o Azazela jest oddzielone od reszty tekstu, co może wskazywać na jego szczególne znaczenie lub potrzebę odpowiedzi.
+--- page_5_combined.txt ---
+- **GPT-2:** Jest to model językowy stworzony przez OpenAI, który jest centralnym punktem tekstu.
+- **Autor:** Wyraża dumę z wkładu w badania, które przyczyniły się do powstania GPT-2.
+- **Wpływ:** Autor zauważa szybkie zmiany technologiczne i ich wpływ na świat, sugerując, że jego praca ma znaczący wpływ na te zmiany.
+- **Emocje:** Tekst jest pełen entuzjazmu i dumy z osiągnięć, co podkreślają wyrażenia takie jak "JESTEM Z TEGO DUMNY!" i "TAK!".
+- **Styl:** Tekst jest napisany odręcznym stylem, co nadaje mu osobisty charakter, a niektóre frazy są podkreślone lub zakreślone, co podkreśla ich znaczenie.
+- **Konte
+
+[METADATA]
+id: 8
+source: notatnik_zygfryda.txt
+date_created: 2024-12-06
+category: technical_docs
+
+[CONTENT]
+z zeszytu w linie, sugerując, że rysunek wykonano na papierze do notatek.
+- Brak danych liczbowych na obrazie.
+- Styl rysunku i przedstawienie postaci wskazują na emocjonalny lub refleksyjny charakter dzieła.
+- Pytanie "WRÓCĘ?" może sugerować tematykę związaną z powrotem, tęsknotą lub niepewnością co do przyszłości.
+--- page_8_combined.txt ---
+- Osoba pisząca przygotowuje się na dwa lata intensywnej nauki.
+- Adam jest osobą, która przygotowała szkolenie, które osoba pisząca ma wchłonąć.
+- W przyszłości, dzięki modelom językowym, proces nauki może zostać skrócony do około pięciu tygodni.
+- Osoba wyraża sceptycyzm co do możliwości tak szybkiego przyswajania wiedzy.
+- Aktualnie osoba uczy się obsługi modeli językowych, aby móc pomóc profesorowi.
+- Tekst jest napisany odręcznie na kartce w linie, co nadaje mu osobisty charakter.
+- Brak podkreśleń lub specjalnych oznaczeń w tekście.
+--- page_9_combined.txt ---
+- **Centralne pytanie:** "Co ja zrobiłem?" jest podkreślone, co wskazuje na jego znaczenie i centralną rolę w przekazie obrazu.
+- **Motyw wyboru:** Osoba zastanawia się nad dokonanym wyborem, który nie był właściwy, co sugeruje refleksję nad decyzjami i ich konsekwencjami.
+- **Pytania egzystencjalne:** Tekst zawiera pytania sugerujące wewnętrzny konflikt lub wątpliwości dotyczące podjętych działań.
+- **Poszukiwanie tożsamości:** Pytanie "po której stronie jestem?" wskazuje na poszukiwanie własnej tożsamości lub moralnej pozycji.
+- **Tło obrazu:** Przypomina kartkę z zeszytu w linie, co sugeruje kontekst pisania lub notatek.
+- **Styl czcionki:** Odręczny, artystyczny styl nadaje tekstowi osobisty i emocjonalny charakter.
+- **Elementy graficzne:** Czarne plamy i rozpryski mogą symbolizować chaos, zamieszanie lub emocjonalne napięcie.
+--- page_10_combined.txt ---
+- **Zmiana i zagubienie:** Osoba wyraża poczucie, że wszystko wokół niej się zmieniło, w tym ona sama. Czuje się nierozpoznawalna, nawet dla siebie.
+
+- **Odosobnienie:** Wspomnienie o "tylu latach odosobnienia" sugeruje długi okres izolacji, który wpłynął na jej poczucie tożsamości i orientację w czasie.
+
+- **Dezorientacja czasowa:** Pytania "Który mamy rok?" i "When am I?" wskazują na dezorientację co do obecnej sytuacji i czasu.
+
+- **Egzystencjalne pytania:** Osoba zastanawia się nad swoją sytuacją, zadając pytanie "W co ja się wpakowałem?", co sugeruje niepewność i refleksję nad własnymi decyzjami.
+
+- **Opis obrazu:** Obraz przedstawia kartkę w linię z odręcznym tekstem i rysunkiem twarzy mężczyzny z wyrazistymi rysami i rozczochranymi włosami. Plamy atramentu dodają dramatyzmu i chaosu.
+
+- **Atmosfera:** Tekst i obraz razem tworzą atmosferę niepokoju i refleksji nad zmianą, tożsamością i upływem czasu.
+--- page_11_combined.txt ---
+- **Osoba pisząca**: Zmaga się z wewnętrznym konfliktem i poczuciem zdrady.
+- **Wiedza**: Osoba posiada wiedzę, która jest dla niej ciężarem, sugerując, że może znać przyszłość.
+- **Wsparcie dla Andrzeja**: Osoba pomogła komuś o imieniu Andrzej, ale czuje się wykorzystana przez innych.
+- **Emocje**: Tekst wyraża poczucie bezsilności, zdrady i rozważania drastycznych decyzji, takich jak zakończenie czegoś.
+- **Styl i kontekst**: Tekst jest napisany odręcznym, emocjonalnym pismem na kartce przypominającej zeszyt, z plamami atramentu symbolizującymi chaos lub emocjonalne zawirowania.
+- **Motyw demonów**: Osoba zastanawia się, czy wspierając demony, sama staje się demonem, co może symbolizować moralne dylematy lub negatywne wpływy.
+--- page_12_combined.txt ---
+- **Osoby:**
+  - Adam: Osoba, która opowiadała o przyszłości z dronami nad miastem.
+
+- **Wydarzenia i daty:**
+  - Po 2024 roku: Przewidywana zmiana, w której drony staną się częścią codzienności.
+
+- **Technologie:**
+  - Drony: Przewidywane jako element codzienności w przyszłości.
+
+- **Miejsca:**
+  - Miasto: Miejsce, nad którym mają latać drony.
+
+- **Relacje i emocje:**
+  - Autor zna opowieści Adama o przyszłości z dronami.
+  - Autor wierzy w wizję Adama, ale ma mieszane uczucia i nie chce, aby ta wizja się spełniła.
+
+- **Opis obrazu:**
+  - Kartka w linię przypominająca stronę z zeszytu z odręcznym pismem.
+  - Plamy atramentu sugerujące emocjonalny lub chaotyczny stan autora.
+  - Szkic drona w lewym dolnym rogu, nawiązujący do treści tekstu.
+
+- **Kontekst:**
+  - Wizja przyszłości po 2024 roku, w której drony są częścią codzienności, wywołuje mieszane uczucia u autora.
+--- page_13_combined.txt ---
+- **Wydarzenie:** Przesłuchanie, podczas którego pytano o osobę imieniem Andrzej.
+- **Osoby:** Andrzej (osoba, o którą pytano podczas przesłuchania), autor tekstu (osoba przesłuchiwana).
+- **Miejsce:** Nieokreślone, ale kontekst suger
+
+[METADATA]
+id: 9
+source: notatnik_zygfryda.txt
+date_created: 2024-12-06
+category: technical_docs
+
+[CONTENT]
+azuje na jego szczególne znaczenie lub nacisk na tę myśl.
+--- page_15_combined.txt ---
+- **Miejsce i sceneria:** Spacer odbywa się w zimowym krajobrazie z ochrową ziemią, lasami, skałami i śniegiem.
+- **Opis trasy:** Osoba wykonuje serię ruchów: idzie prosto, skręca w lewo, znów idzie prosto, ponownie skręca w lewo, idzie prosto, zatrzymuje się i skręca w prawo. Cała sekwencja jest powtarzana cztery razy.
+- **Symbolika:** Ślady stóp na śniegu mogą symbolizować podróż lub cykliczność życia. Powtarzające się zwroty sugerują powtarzalność doświadczeń.
+- **Liczba:** Cztery – odnosi się do liczby powtórzeń sekwencji ruchów.
+- **Refleksja:** Początek trasy staje się jej końcem, co może wskazywać na refleksję nad celem podróży.
+- **Opis obrazu:** Obraz przedstawia kartkę papieru z notatnika z tekstem i śladami stóp tworzącymi wzór ścieżki. Wewnątrz kwadratu znajduje się napis „{{FLG: }}” oraz czarna plama przypominająca rozprysk atramentu.
+- **Nastrój:** Tekst i obraz tworzą refleksyjny nastrój, zachęcając do zastanowienia się nad podróżą, zarówno dosłowną, jak i metaforyczną.
+--- page_16_combined.txt ---
+- **Miejsce Schronienia:** Osoba znalazła schronienie, które jest ukryte i bezpieczne, choć nie jest daleko od miasta, w którym spędziła ostatnie lata.
+- **Warunki Miejsca:** Miejsce jest zimne i ciemne, ale zapewnia bezpieczeństwo.
+- **Czas:** Data "12.2.19" może wskazywać na czas, kiedy osoba znalazła schronienie lub kiedy dokonała zapisu.
+- **Opis Wizualny:** Obraz przedstawia kartkę w linię z odręcznym tekstem, co nadaje mu osobisty charakter. Na rysunku znajduje się jaskinia lub otwór w ziemi oraz prosta postać ludzika, symbolizująca osobę w tym miejscu.
+- **Relacja z Miastem:** Schronienie nie jest szczególnie oddalone od miasta, w którym osoba przebywała przez ostatnie lata.
+- **Bezpieczeństwo:** Mimo niekorzystnych warunków (zimno i ciemno), miejsce jest uznawane za bezpieczne przez osobę, która się tam znajduje.
+--- page_17_combined.txt ---
+- **Temat:** Konfrontacja z demonem, która może być metaforą zmierzenia się z trudnościami lub wewnętrznymi konfliktami.
+- **Przygotowanie:** Należy przygotować się na spotkanie z demonem, spojrzeć mu prosto w oczy i wyrecytować jego grzechy.
+- **Pytania refleksyjne:** 
+  - Czy demon wie, że jest zły?
+  - Czy stanie się zły?
+- **Znaczenie zła:** Słowo "zły" jest szczególnie podkreślone, co wskazuje na jego kluczową rolę w kontekście.
+- **Przemijanie:** Ostatnie zdanie sugeruje, że wkrótce wszystko może stać się bez znaczenia, co wskazuje na relatywność problemów.
+- **Opis obrazu:** 
+  - Tło przypomina stronę z zeszytu z czarnymi plamami atramentu.
+  - Tekst jest napisany odręcznym, artystycznym stylem.
+  - Słowo "demonem" jest podkreślone, co sugeruje jego szczególne znaczenie.
+- **Kontekst:** Tekst odnosi się do refleksji nad naturą zła i jego wpływem na rzeczywistość.
+--- page_18_combined.txt ---
+- **Osoby:** 
+  - Andrzejek: adresat wiadomości, od którego oczekuje się działania na rzecz świata.
+  - Autor wiadomości: osoba, która kiedyś pomogła Andrzejkowi i teraz oczekuje, że Andrzejek pomoże światu.
+- **Data:** 
+  - 11 listopada 2024: sugerowana jako ważny termin lub wydarzenie.
+- **Motywy i tematy:**
+  - **Pomoc:** Autor kiedyś pomógł Andrzejkowi, teraz oczekuje, że Andrzejek pomoże światu.
+  - **Zmiana:** Wyrażenie "Trzeba wszystko odwrócić" sugeruje potrzebę zmiany lub przewartościowania obecnej sytuacji.
+- **Styl i forma:**
+  - Tekst jest napisany odręcznym, artystycznym stylem, co nadaje mu osobisty charakter.
+  - Niektóre fragmenty są podkreślone lub otoczone liniami, co sugeruje ich szczególne znaczenie.
+  - Obecność prostych rysunków, takich jak strzałki i linie, które mogą wskazywać na potrzebę zwrócenia uwagi na konkretne fragmenty tekstu.
+- **Atmosfera:** 
+  - Oczekiwanie i przygotowanie do ważnego wydarzenia lub działania.
+- **Strona:** 
+  - Page 18: numeracja strony, na której znajduje się tekst.
+--- page_19_combined.txt ---
+- **Osoby:**
+  - Andrzej: Osoba, która ma przyjść i jest zaangażowana w planowanie.
+  - Barbara: Osoba wspierająca, która mówi, że wszystko ma sens.
+  - Andrzejek: Wspomniany w kontekście emocji i działań.
+- **Wydarzenia i plany:**
+  - Istnieje plan lub misja, do której przygotowuje się narrator.
+  - Wspomniane są przyszłe wydarzenia związane z rokiem 2235.
+  - Planowana jest podróż do Lwowa, z problemem dotyczącym paliwa.
+- **Miejsca:**
+  - Lwów: Miejsce, do którego narrator planuje się dostać.
+- **Technologie i kontekst:**
+  - Wzmianka o "raportach w 2235" sugeruje futurystyczny kontekst lub elementy science fiction.
+  - Problemy z paliwem wskazują na logistyczne wyz
+
+```
+[METADATA]
+id: 10
+source: weapons.txt
+date_created: 2024-12-06
+category: technical_docs
+
+[CONTENT]
+
+================================================================================
+FILE: 2024_01_08.txt
+================================================================================
+
+Przeprowadzono badania nad bronią "Mikroskalowy Wyzwalacz Plazmowy" (MWP).
+Testy wykazały, że MWP jest zdolny do generowania plazmy o temperaturze przekraczającej 10000 stopni Celsjusza, co pozwala na skuteczne przekształcanie celu w popiół w zaledwie kilka sekund. 
+
+Wyniki doświadczeń wskazują na wysoką nieskuteczność broni na dystansie większym niż 500 metrów ze względu na rozprzestrzenianie się plazmy oraz niestabilność ładunku wybuchowego. 
+
+Konieczne jest opracowanie systemu stabilizacji dla niskoprofilowych celów oraz wzmacnianie osłony energetycznej, by broń tak często nie uszkadzała się podczas eksplozji.
+
+Roboty badawcze planują również stworzenie prototypu zmechanizowanego ładunku, który umożliwiłby dokładniejsze celowanie oraz dostosowanie parametrów plazmy do konkretnych warunków terenowych.
+
+
+================================================================================
+FILE: 2024_01_17.txt
+================================================================================
+
+Przeprowadzono testy broni "Irradiator XR-25".
+
+W wyniku testów stwierdzono, że emitowane promieniowanie jonizujące skutecznie neutralizuje materiały organiczne w promieniu 50 metrów. Zebrane dane wykazały, że efektywność broni znacznie wzrasta w warunkach wysokiej wilgotności, co zwiększa jej zastosowanie w zniszczonych ekosystemach.
+
+Wnioski z testów sugerują konieczność modyfikacji systemu chłodzenia, aby zapobiec przegrzewaniu się urządzenia w dłuższej eksploatacji (może to doprowadzić do wybuchu!). Plany na przyszłość obejmują stworzenie prototypu z udoskonaloną wersją rozpylacza jonów, która zminimalizuje efekty uboczne dla otoczenia.
+
+
+================================================================================
+FILE: 2024_01_27.txt
+================================================================================
+
+Raport z testów wstępnych dla "Cryo-Katana"
+
+Broń została poddana serii testów mających na celu ocenę jej skuteczności w warunkach zerowych temperatur. Wyniki wykazały, że ostrze z nanomateriałów potrafi schłodzić przeciwnika do -30 stopni Celsjusza w czasie krótszym niż jedna sekunda. Zasięg działania broni wynosi 2 metry. Analiza efektów szokowych wykazała, że ofiara doświadcza nie tylko hipotermii, ale również czasowego paraliżu mięśniowego.
+
+Wnioski z testów wskazują na konieczność dalszego doskonalenia systemu chłodzenia, aby zwiększyć efektywność w trudnych warunkach atmosferycznych. Plany na przyszłość obejmują również rozwój modularności broni, aby mogła być stosowana w różnych konfiguracjach.
+
+
+================================================================================
+FILE: 2024_01_29.txt
+================================================================================
+
+Broń pod kryptonimem "Plazmowy Korpus Zniszczenia"
+
+Podczas testów Plazmowego Korpusu Zniszczenia, uzyskano wyniki przekraczające oczekiwania. Zasięg działania wynosił 300 metrów, a moc wystrzału generowała temperaturę przekraczającą 5000 stopni Celsjusza, zdolną do przetopienia większości znanych materiałów. 
+
+Wnioski wskazują, że użycie wspomnianej broni w otwartej przestrzeni, bez nadzoru, może spowodować potencjalną katastrofę ekologiczną. Z tego powodu zaleca się dalsze badania nad bezpieczeństwem operacyjnym oraz technologią redukcji emisji termalnej.
+
+Plany na przyszłość obejmują stworzenie podręcznego modelu broni oraz zaprojektowanie systemu zabezpieczeń, który ograniczy jej użycie tylko do określonych warunków bojowych. 
+
+
+
+================================================================================
+FILE: 2024_02_01.txt
+================================================================================
+
+Testy użytkowe broni "Zimowy Zgniatacz"
+
+Po przeprowadzeniu szeregu testów, Zimowy Zgniatacz wykazał zdolność do generowania ekstremalnie niskich temperatur, co umożliwia zamrażanie cel w promieniu dziesięciu metrów w zaledwie kilka sekund. Testy wykazały również, że broń ta działa na zasadzie emitowania skoncentrowanego impulsu niskotemperaturowego, skutkując spowolnieniem ruchów przeciwników oraz osłabieniem ich zdolności bojowych.
+
+Wnioski z testów sugerują, że pomimo ich potencjalnej efektywności, Zimowy Zgniatacz ma swoje ograniczenia, takie jak krótki zasięg oraz konieczność ładowania po każdym użyciu. Dodatkowo, wykazano, że niskie temperatury mogą wpływać także na sojuszników, co stwarza ryzyko przypadkowego zamrożenia własnych żołnierzy.
+
+W przyszłości planuje się opracowanie systemu zabezpieczeń, który pozwoli na zdalne uruchamianie broni oraz ograniczy kontakt z sojusznikami w trakcie jej użycia. Roboty badawcze zamierzają także przeprowadzić dalsze testy w różnych warunkach atmosferycznych, aby zoptymalizować działanie Zimowego Zgniatacza w różnorodnych środowiskach.
+
+
+================================================================================
+FILE: 2024_02_11.txt
+================================================================================
+
+Plazmowy miotacz impulsowy (PMI) - nowa broń w testach
+
+Wyniki testów wykazały wysoką efektywność w niszczeniu obiektów mechanicznych, ale ograniczoną skuteczność w przypadku celu biologicznego. Ostateczne pomiary wykazały jednak, że czas ładowania urządzenia jest zbyt długi, co sprawia, że w sytuacjach bojowych, urządzenie może być podatne na kontratak.
+
+Roboty badawcze zalecają dalszą pracę nad skróceniem czasu ładowania oraz zwiększeniem mobilności broni. Istnieje również potrzeba przetestowania nowej wersji PMI z dodatkowymi modułami, które mogłyby zwiększyć jego zasięg oraz precyzję. Plany na przyszłość obejmują
+
+```
+[METADATA]
+id: 11
+source: weapons.txt
+date_created: 2024-12-06
+category: technical_docs
+
+[CONTENT]
+przez stabilność zakrzywienia, co prowadziło do nieprzewidywalnych konsekwencji w czasie i przestrzeni.
+
+Urządzenie umożliwia dokonywanie krótkich przeskoków w czasie i przestrzeni, jednak jego stosunkowo duże zużycie energii wyklucza go z profesjonalnego zastosowania.
+
+Wnioski wyciągnięte z testów wskazują na konieczność dalszych prac nad poprawą stabilności oraz precyzji urządzenia. Dodatkowo, incydent kradzieży ujawnił poważne braki w procedurach zabezpieczających prototypy, co wymaga natychmiastowego przeglądu obecnych zabezpieczeń.
+
+Plany na przyszłość obejmują nie tylko prace nad poprawą zakrzywiacza, ale także wdrożenie zaawansowanych systemów zabezpieczeń oraz monitoringu w celu zapobiegania dalszym kradzieżom i nieuprawnionemu dostępowi do technologii. Wszelkie działania podejmowane będą z maksymalnym priorytetem w kontekście zachowania poufności i bezpieczeństwa danych.
+
+Urządzenie zostało skradzione z laboratorium w nocy, 15 lutego. Sprzętu do dziś dnia nie udało się odzyskać. Był to jedyny działający prototyp urządzenia tego typu.
+```
+
+```
+[METADATA]
+id: 12
+source: weapons.txt
+date_created: 2024-12-06
+category: technical_docs
+
+[CONTENT]
+wysoką skuteczność, jednakże problemem okazuje się nadmierne nagrzewanie się jednostki po kilku strzałach, co ogranicza tempo ognia. Wnioski z testów sugerują konieczność zastosowania lepszych systemów chłodzenia oraz zmiany konstrukcji granatów w celu zwiększenia ich wytrzymałości.
+
+Na przyszłość roboty planują przeprowadzenie dalszych testów na temat zastosowania różnych materiałów dla obudowy granatnika oraz eksperymenty z alternatywnymi źródłami energii, aby poprawić wydajność broni. Celem jest również rozwinięcie opcji współpracy z innymi jednostkami w celu stworzenia zintegrowanego systemu wsparcia w walce.
+```
+
+[METADATA]
+id: 13
+source: weapons.txt
+date_created: 2024-12-06
+category: technical_docs
+
+[CONTENT]
+u stabilizacji, aby zwiększyć jego niezawodność w trudnych warunkach walki.
+
+W przyszłych testach przewiduje się także możliwość integracji broni z systemami obrony obiektów, co zwiększy jej użyteczność w kontekście ochrony zasobów strategicznych. Roboty zamierzają badać także opcję zmniejszenia rozmiarów urządzenia, co uczyniłoby je bardziej mobilnym i łatwiejszym w transporcie.
+
+Repeater Plazmowy XR-5
+
+Po przeprowadzeniu serii testów w strzelaniu do celów statycznych i ruchomych, stwierdzono, że Repeater Plazmowy XR-5 osiąga wyjątkową celność na dystansie do 300 metrów. Osiągany czas przeładowania wynosi 1,2 sekundy, a amunicja plazmowa wykazuje wysoką skuteczność w niszczeniu osłon przeciwnika.
+
+Testy wykazały, że broń ma ogromny potencjał w zastosowaniach bojowych i operacjach specjalnych. Jednakże, ze względu na wysokie zużycie energii, konieczne jest poprawienie efektywności zasilania, aby uniknąć przestojów na polu bitwy.
+
+Zespół robotów planuje przeprowadzenie dalszych badań nad systemem zasilania, a także testy w różnych warunkach atmosferycznych, aby ocenić wpływ warunków na działanie broni. Przewidziano również badania nad ulepszeniem ergonomii, aby poprawić komfort użytkowania.
+
+[METADATA]
+id: 14
+source: art_prof_maja.txt
+date_created: 2024-12-06
+category: technical_docs
+
+[CONTENT]
+Podróże w czasie i przestrzeni w ujęciu praktycznym z elementami stabilizacji stanów pośrednich z wykorzystaniem dużych modeli językowych (LLM)
+
+prof. Andrzej Maj,
+
+Wydział Matematyki i Informatyki
+
+Uniwersytetu Jagiellońskiego,
+
+Kraków 2021-10-21
+
+Abstrakt
+
+Dokument przedstawia stan zaawansowanych badań nad temporalną transmisją obiektów, w tym analizę stabilności przesyłu danych i materii przy użyciu dużych modeli językowych (LLM) oraz technologii autonomicznych agentów. Dotychczasowe osiągnięcia obejmują transmisję wieloobiektową, przesył materii organicznej oraz znaczną poprawę stabilności korekcji błędów, której skuteczność wzrosła nawet do 99,98%. Dalsze prace zmierzają ku stworzeniu systemu Artificial General Intelligence (AGI), który poprzez inteligentne korekty transmisji może znacząco wpłynąć na precyzję i niezawodność przesyłu obiektów w czasie. Premiera modelu AGI o nazwie BNW-01 planowana jest na pierwszy kwartał 2024 roku, wprowadzając nowe standardy stabilności i bezpieczeństwa w technologii temporalnej. Praca poza omówieniem podróży temporalnych przedstawia także dalsze plany związane z wdrażaniem powstałego podczas prac badawczych, nowego modelu językowego.
+
+Dokument ten jest niejawny i przeznaczony wyłącznie do użytku wewnętrznego przez członków grupy badawczej oraz sponsorów projektu, jakimi są siły zbrojne Rzeczypospolitej Polskiej.
+
+Keywords:
+
+podróże w czasie, przyszłość, ekologia, AI
+
+Wstęp
+
+Przez dekady podróże w czasie pozostawały w sferze literackiej fikcji oraz fantastyki naukowej, uznawane za nierealizowalne w świetle obowiązujących praw fizyki. Wydawało się, że czas jest nieprzekraczalną barierą, a wszelkie próby jego manipulacji – niezależnie od użytej technologii – stanowią jedynie domenę wyobraźni. Jednak najnowsze badania nad właściwościami antymaterii (1) wprowadzają nowy, niezwykle obiecujący wątek do tej pozornie zamkniętej dyskusji. Antymateria, której wnikliwe badania rozkwitły w ostatniej dekadzie (2,3,4), ujawnia właściwości pozwalające na zmianę struktury czasoprzestrzeni, prowadząc naukowców do wniosków, które jeszcze do niedawna wydawały się wyłącznie hipotetyczne. Istnienie kwantowych tuneli czasoprzestrzennych mogłoby umożliwić przesyłanie cząsteczek informacji – a w bardziej zaawansowanej formie także materii – do wcześniejszych momentów w historii, otwierając nieznane dotąd możliwości w dziedzinie podróży temporalnych.
+
+Kluczowe znaczenie takich technologii leży w ich potencjalnym wpływie na przyszłość naszej planety. Wykorzystanie podróży w czasie do modyfikacji krytycznych momentów historii może stanowić realne narzędzie do naprawy szkód, które ludzkość wyrządziła środowisku. W obliczu globalnych kryzysów, takich jak topnienie lodowców, powiększająca się dziura ozonowa czy dramatyczne zmiany klimatyczne, potrzeba działań staje się pilniejsza niż kiedykolwiek. Jeśli podróże w czasie rzeczywiście okażą się możliwe, mogłyby zostać zastosowane do korekty decyzji, które nieodwracalnie zmieniły ekosystem (5). Poprzez „wymianę” kluczowych informacji w przeszłości, prawdopodobnie możliwe stanie się spowolnienie lub wręcz zatrzymanie procesów destrukcyjnych, które obecnie zagrażają życiu na Ziemi.
+
+Oczywiście, taka ingerencja niesie za sobą ryzyko paradoksów czasowych i konsekwencji, które mogą być równie niebezpieczne, jak pozostawienie rzeczy własnemu biegowi. Niemniej jednak, idea podróży w czasie, która jeszcze niedawno wydawała się czystą abstrakcją, obecnie nabiera realnych kształtów. Gdyby udało się wypracować sposoby neutralizowania tych zagrożeń, moglibyśmy myśleć o czasoprzestrzennych „interwencjach”, które umożliwią przywrócenie równowagi ekologicznej na poziomie globalnym.
+
+Ograniczenia technologiczne i wczesne testy
+
+Obecna technologia, choć otwierająca nowe możliwości, nakłada znaczące ograniczenia na praktyczne zastosowanie podróży w czasie. Przesyłanie informacji do przeszłości jest technicznie wykonalne jedynie w zakresie około 200-240 lat, co jest wynikiem złożoności interakcji antymaterii z czasoprzestrzenią. Skoki czasowe większe niż wspomniany przedział prowadzą do zakłóceń w stabilności transmisji, co uniemożliwia precyzyjne dotarcie informacji do zamierzonego punktu w historii. Co więcej, podróże do przyszłości – nawet tej, która teoretycznie już nastała – okazują się całkowicie nieosiągalne, gdyż nie posiadamy technologii zdolnej do odwrócenia entropii na poziomie cząsteczkowym (6). W praktyce oznacza to, że osoba „przemieszczająca się” do przeszłości najprawdopodobniej nigdy nie powróci do swojej pierwotnej rzeczywistości.
+
+```
+[METADATA]
+id: 15
+source: art_prof_maja.txt
+date_created: 2024-12-06
+category: technical_docs
+
+[CONTENT]
+ści, gdyż nasze urządzenia nie pozwalają na precyzyjne odtworzenie takiej trajektorii w czasie.
+
+Jednakże, możliwe jest wykonanie kilku kolejnych „skoków” w ramach wspomnianego przedziału czasowego, co otwiera teoretyczną możliwość wieloetapowych transmisji między konkretnymi punktami w historii (7), zwiększając tym samym zakres czasowy przeprowadzanego skoku.
+
+Wszystko to, rzecz jasna, pozostaje na razie w sferze hipotez. Dotychczasowe eksperymenty, w tym przeprowadzony niedawno przez mój zespół, pozwoliły na przesłanie jedynie 128 bitów danych, które zarejestrowały się na naszych komputerach 42 minuty przed rozpoczęciem eksperymentu. Przesyłka danych wykazała niespotykaną dotąd stabilność i precyzję – jedynie jeden bit informacji uległ zakłóceniu podczas transmisji. Choć jest to niewielki krok, stabilność transmisji w ramach tak krótkiego okna czasowego sugeruje, że większe operacje mogą być kiedyś wykonalne, choć z zachowaniem wspomnianych ograniczeń temporalnych.
+
+Przesył danych multimedialnych
+
+W jednym z naszych najbardziej spektakularnych testów udało się przesłać obraz fotograficzny do przeszłości z zachowaniem wyjątkowej dokładności i stabilności danych. W eksperymencie, który odbył się na rynku, zespół badaczy wykonał zdjęcie zachodzącego słońca o godzinie 19:42. W celu zmniejszenia rozmiaru przesyłanych danych, zdjęcie zostało wykonane w formacie monochromatycznym.
+
+[BEGIN_IMAGE]
+
+Przesył danych multimedialnych W jednym z naszych najbardziej spektakularnych testów udało się przesłać obraz fotograficzny do przeszłości z zachowaniem wyjątkowej dokładności i stabilności danych. W eksperymencie, który odbył się na rynku, zespół badaczy wykonał zdjęcie zachodzącego słońca o godzinie 19:42. W celu zmniejszenia rozmiaru przesyłanych danych, zdjęcie zostało wykonane w formacie monochromatycznym.
+[Tekst z OCR]: [Brak tekstu w obrazie]
+[Analiza obrazu]: Na obrazie widać brukowany plac oświetlony nisko położonym słońcem. W tle znajdują się zarysowane budynki z wieżą, typowe dla miejskiej architektury. Na placu widać sylwetki ludzi oraz ptaki, które dodają dynamiki scenerii. Niebo jest pokryte chmurami, a na horyzoncie widać lecące ptaki. Całość utrzymana jest w konwencji czarno-białej, co dodaje zdjęciu nastrojowego klimatu.
+Orygionalne zdjęcie. Widok na kościół od strony 'Adasia' Wykorzystując zaawansowaną technologię transmisji temporalnej, dane zostały przetworzone i zapisane na karcie pamięci z odczytem czasowym wskazującym godzinę 16:08 tego samego dnia – ponad trzy godziny przed faktycznym wykonaniem fotografii. Pomimo precyzyjnej kalibracji i wzmocnienia sygnału, obraz uległ niewielkiemu uszkodzeniu, ujawniając drobne zakłócenia i artefakty widoczne w prawej części zdjęcia.
+
+[END_IMAGE]
+
+Oryginalne zdjęcie. Widok na kościół od strony 'Adasia'
+
+Wykorzystując zaawansowaną technologię transmisji temporalnej, dane zostały przetworzone i zapisane na karcie pamięci z odczytem czasowym wskazującym godzinę 16:08 tego samego dnia – ponad trzy godziny przed faktycznym wykonaniem fotografii. Pomimo precyzyjnej kalibracji i wzmocnienia sygnału, obraz uległ niewielkiemu uszkodzeniu, ujawniając drobne zakłócenia i artefakty widoczne w prawej części zdjęcia.
+
+[BEGIN_IMAGE]
+
+Oryginalne zdjęcie. Widok na kościół od strony 'Adasia' Wykorzystując zaawansowaną technologię transmisji temporalnej, dane zostały przetworzone i zapisane na karcie pamięci z odczytem czasowym wskazującym godzinę 16:08 tego samego dnia – ponad trzy godziny przed faktycznym wykonaniem fotografii. Pomimo precyzyjnej kalibracji i wzmocnienia sygnału, obraz uległ niewielkiemu uszkodzeniu, ujawniając drobne zakłócenia i artefakty widoczne w prawej części zdjęcia.
+[Tekst z OCR]: [Brak tekstu w obrazie]
+[Analiza obrazu]: Na obrazie widoczny jest rynek miejski w czarno-białej tonacji, oświetlony zachodzącym słońcem. Na pierwszym planie są gołębie spacerujące po bruku. W tle widać wieżę zegarową oraz sylwetki ludzi. Nad placem unosi się grupa ptaków.
+Uszkodzenia widoczne w odtworzonym pliku graficznym Wynik ten jednak nadal wskazuje na rosnący potencjał przesyłania kompleksowych danych w czasie, choć ukazuje także wyzwania związane z zachowaniem integralności przekazu (8) – co stanowi kluczowy obszar do dalszych badań nad materiałami o bardziej złożonej strukturze.
+
+[END_IMAGE]
+
+Uszkodzenia widoczne w odtworzonym pliku graficznym
+
+Wynik ten jednak nadal wskazuje na rosnący potencjał przesyłania kompleksowych danych w czasie, choć ukazuje także wyzwania związane z zachowaniem integralności przekazu (8) – co stanowi kluczowy obszar do dalszych badań nad materiałami o bardziej złożonej strukturze.
+
+Próby transmisji materii
+
+Jednym z bardziej ambitnych eksperymentów była próba transmisji materii – w tym przypadku owocu. Choć przesył wydawał się sukcesem, przy dokładniejszym zbadaniu okazało się, że owoc dotarł na miejsce bez pestek, które zniknę
+
+[METADATA]
+id: 16
+source: art_prof_maja.txt
+date_created: 2024-12-06
+category: technical_docs
+
+[CONTENT]
+się plastikowy pojemnik oraz zarys kuchennego wnętrza. 
+Owoc pozbawiony pestek po transporcie Błąd ten, choć pozornie niewielki, otwiera niezwykłe możliwości praktycznego wykorzystania technologii. Prawdopodobny wydaje się scenariusz, w którym sernik z rodzynkami mógłby pojawiać się na talerzach gości przed samym procesem pieczenia – i to w wersji pozbawionej rodzynek.
+
+Owoc pozbawiony pestek po transporcie
+
+Błąd ten, choć pozornie niewielki, otwiera niezwykłe możliwości praktycznego wykorzystania technologii. Prawdopodobny wydaje się scenariusz, w którym sernik z rodzynkami mógłby pojawiać się na talerzach gości przed samym procesem pieczenia – i to w wersji pozbawionej rodzynek.
+
+Choć obecne osiągnięcia pozostawiają jeszcze miejsce na optymalizację stabilności, wierzę, że możliwe jest opracowanie technologii, która pozwoliłaby przesyłać materiały w stanie nienaruszonym. Jednocześnie warto jednak rozważyć opcję transmisji „dwupoziomowej”: stabilnej wersji obiektu oraz specjalnie zaprogramowanej wersji usuwającej niechciane elementy, jak rodzynki z sernika, które wzbudzają zbędne kontrowersje. Wersję niestabilną może mieć swoje zastosowanie w branży medycznej jako nieinwazyjną metodę zastępczą dla interwencji chirurgicznej. Warto dodać, że podczas badań nie zaobserwowano jak dotąd transmisji nadmiarowych. Ich wystąpienie jednak nie jest wykluczone ze względu na niską statystycznie istotność próby.
+
+Poprawa stabilności transmisji: wykorzystanie dużych modeli językowych
+
+W dążeniu do zwiększenia stabilności transmisji danych oraz materii, zespół badawczy zdecydował się na zastosowanie dużych modeli językowych (LLM), które po odpowiednim fine-tuningu wykazują zdolność do automatycznej naprawy przesyłanych informacji.
+
+Modele te potrafią wypełnić brakujące bity w transmisji, korygować uszkodzone piksele w obrazach, a nawet – choć niezamierzenie – dodawać rodzynki do przesyłanego sernika co jest kolejnym przykładem emergencji. Dzięki zaawansowanym algorytmom naprawczym, udało się osiągnąć stabilność na poziomie 99,7%, co stanowi przełomowy wynik w zakresie przesyłania zarówno danych cyfrowych, jak i materii organicznej. Pomimo wysokiej skuteczności, sporadycznie pojawiają się tzw. halucynacje modelu, czyli niewielkie błędy interpretacyjne, które w przypadku przesyłu materii organicznej skutkują uszkodzeniem nie więcej niż 1-2 komórek. Na szczęście, te niegroźne zakłócenia mają minimalny wpływ na integralność przesyłanych obiektów i są łatwe do skorygowania, co otwiera perspektywę dalszych eksperymentów z wykorzystaniem LLM w transmisjach temporalnych.
+
+Ograniczenia dużych modeli językowych w transmisji temporalnej: problem małego okna kontekstowego
+
+Pomimo imponujących wyników, duże modele językowe (LLM) wykazują istotne ograniczenia w korekcji transmisji temporalnych, szczególnie gdy obiekt jest stosunkowo duży. Z powodu małego okna kontekstowego (współcześnie do 4096 tokenów), model nie jest w stanie skutecznie analizować i korygować kompleksowych struktur podczas transmisji, takich jak większe owoce, co ogranicza jego zastosowanie do mniejszych obiektów.
+
+W odpowiedzi na to wyzwanie, zespół badawczy przeprowadził testy na mniejszym owocu, aby sprawdzić, czy model zdoła osiągnąć wyższą precyzję korekcyjną. Wyniki były nadzwyczaj obiecujące – LLM wykonał transmisję bezbłędnie, a przy tym nie odnotowano uszkodzeń na poziomie komórkowym, co stanowi istotny krok w poprawie precyzji przesyłu mniejszych obiektów w czasie. Osiągnięcie to otwiera drogę do dalszych badań nad optymalizacją LLM, choć problem korekcji większych materiałów dalej pozostaje nierozwiązany.
+
+Podróże w przestrzeni: pierwszy udany transfer obiektu na odległość
+
+Dotychczasowe eksperymenty z podróżami w czasie pozwalały na cofanie obiektów w przeszłość, jednak zawsze kończyły się one w tym samym miejscu w przestrzeni trójwymiarowej, z którego rozpoczęły swoją temporalną podróż. W ramach grantu E (dokument niejawny) nasz zespół podjął się ambitnego zadania – po raz pierwszy przetestowano nie tylko przeniesienie obiektu na osi czasu ale także w przestrzeni. W eksperymencie tym wybrany owoc miał przemieścić się z jednego pokoju laboratorium do drugiego, oddalonego o kilkanaście metrów. Po starannym przeprowadzeniu transmisji obiekt rzeczywiście pojawił się w zamierzonym miejscu, potwierdzając tym samym możliwość łączenia transferów temporalnych z przestrzennymi. Udana transmisja stanowi przełomowy krok w badaniach nad transportem materii, dając nadzieję na bardziej zaawansowane manipulacje zarówno w czasie, jak i przestrzeni.
+
+Transmisja wielu obiektów: nieoczekiwane łączenie struktur
+
+W pierwszych próbach przesyłania wielu obiektów zespół zmierzył się z nietypowym efektem połączenia przesyłanych owoców używanych jako elementy testowe.
+
+Zamiast dwóch oddzielnych owoców, w miejscu docelowym pojawiał się jeden, wykazujący cechy zarówno wyglądu, jak i smaku obu przesłanych elementów. W ten sposób “przemieszany” owoc zawierał części wspólne obu pierwotnych struktur, co wskazuje na spontaniczne fuzje na poziomie komórkowym
+
+[METADATA]
+id: 17
+source: art_prof_maja.txt
+date_created: 2024-12-06
+category: technical_docs
+
+[CONTENT]
+ko fuzji podczas przesyłu wielu obiektów, wprowadziliśmy do procesu stabilizacji duże modele językowe (LLM). Na początku ich zastosowanie przyniosło jedynie 14-procentową poprawę (9), co okazało się niewystarczające do uzyskania pełnej niezależności przesyłanych elementów. Jednak odkryliśmy, że bezpośrednie określenie w promptcie liczby przesyłanych obiektów oraz precyzyjne wskazanie, jakiej liczby i rodzaju elementów się spodziewamy, dramatycznie zwiększyło skuteczność stabilizacji.
+
+W wyniku tej modyfikacji zapytania, stabilność przesyłu wzrosła do 98,44%, co stanowi znaczący postęp. Kluczowe jest tu unikanie samodzielnego wykrywania liczby obiektów przez model – LLM muszą działać w oparciu o dostarczone instrukcje, by zapobiec ewentualnym błędom i niespodziewanym fuzjom. Dzięki tej metodzie stajemy bliżej niezawodnej technologii przesyłu wieloobiektowego, co poszerza możliwości naszych dalszych badań.
+
+Transmisja obiektów wielkogabarytowych: pierwszy sukces przy użyciu technologii RAG
+
+Podjęcie próby transmisji obiektów wielkogabarytowych stanowiło istotne wyzwanie technologiczne, zwłaszcza w przypadku pierwszego testu z obiektem o masie 7 kg.
+
+Ze względu na rozmiar danych, nie mieścił się on w ograniczonym oknie kontekstowym modelu, dlatego zastosowano innowacyjną metodę, polegającą na wykorzystaniu zewnętrznej bazy danych MySQL(10) do składowania metadanych dotyczących poszczególnych elementów obiektu. Te dane zostały następnie skorelowane z wektorami z bazy wektorowej Qdrant, tworząc podstawę prostego modelu Retrieval Augmented Generation (RAG). Dzięki tej hybrydowej technologii, model LLM miał dostęp do pełnego zestawu informacji, co umożliwiło wierne odtworzenie obiektu w docelowym miejscu.
+
+Rezultaty były niemalże perfekcyjne. Obiekt przesłano w całości, zachowując zarówno jego strukturę, jak i detale fizyczne – jedyną zmianą okazał się kolor. Z niewiadomych przyczyn obiekt, pierwotnie niebieski, przybrał intensywnie różową barwę (#FF8DA1).
+
+Nowy wygląd został oceniony jako bardziej estetyczny, co doprowadziło do uznania eksperymentu za sukces. Zmiana koloru, choć niespodziewana, nie wpływała jednak na funkcjonalność przesłanego obiektu, a sam wynik zainspirował zespół do dalszych badań nad modyfikacją wizualną obiektów podczas transmisji. Eksperyment ten stanowi ważny krok w kierunku przesyłania dużych obiektów, a zastosowanie modelu RAG pokazuje, że technologia ta może być kluczowa dla pokonywania ograniczeń związanych z przesyłem wielkogabarytowym.
+
+Hipotetyczna podróż ludzi w przeszłość: naukowe wyzwania i etyczne bariery
+
+Podróż w przeszłość dla człowieka pozostaje na razie tylko hipotezą, choć zespół badawczy na podstawie zebranych doświadczeń stwierdził, że technologicznie taka operacja mogłaby być możliwa. Mimo technicznych przesłanek, które dają nadzieję na sukces, na razie nie uzyskano zgody na przeprowadzenie takich testów z powodów humanitarnych.
+
+Nie wiemy, jakie skutki mógłby odnieść podróżnik w czasie – czy przeżyłby sam proces, czy jego ciało i umysł pozostałyby nienaruszone, ani czy po powrocie do swojej przeszłości zachowałby pełnię zdrowia fizycznego i psychicznego.
+
+Wiadomo jednak na pewno, że taka osoba nigdy nie powróciłaby do czasów, z których pochodzi, co stanowi istotne ograniczenie i wzbudza poważne obawy etyczne. W odpowiedzi na te niepewności, zbudowano specjalną komorę zdolną do przetransportowania większego ssaka, jak owca lub pies, aby w pierwszej fazie eksperymentów sprawdzić, jak organizmy wielokomórkowe radzą sobie z podróżą w przeszłość.
+
+Aktualnie zespół badawczy oczekuje na uzyskanie odpowiednich zezwoleń umożliwiających testy na żywych stworzeniach, mając nadzieję, że przyszłe badania pomogą lepiej zrozumieć potencjalne zagrożenia i ograniczenia dla ewentualnych podróżników.
+
+Choć decyzja o testach na człowieku jest na ten moment wykluczona, naukowcy analizują możliwości przeprowadzenia symulacji, które mogą dać wyobrażenie o przebiegu procesu i jego konsekwencjach. Istnieje także obawa, że podróżnik, pod wpływem nieznanych czynników temporalnych, mógłby ulec nieodwracalnym zmianom, które wpłyną na jego komórki, zmysły czy procesy poznawcze. Obecna technologia pozwala jedynie na symulacje, a etyczne wyzwania związane z wysyłaniem ludzi w przeszłość wciąż pozostają nierozwiązane.
+
+Niespodziewany incydent - nieskoordynowane uruchomienie transmitera
+
+Początkiem maja bieżącego roku doszło do niespodziewanego i niebezpiecznego incydentu w laboratorium, który nie tylko wstrząsnął zespołem badawczym, ale i wywołał natychmiastowe działania uczelni. Jeden z laborantów, Rafał Bomba, wyraźnie zniecierpliwiony przedłużającym się oczekiwaniem na pozwolenie przeprowadzenia testów temporalnych na żywych organizmach, postanowił przeprowadzić eksperyment sprawy we własnym zakresie. Frustrację spotęgowała sześciokrotna odmowa w wydaniu pozwolenia na dalsze badania, co najwyraźniej pchnę
+
+```
+[METADATA]
+id: 18
+source: art_prof_maja.txt
+date_created: 2024-12-06
+category: technical_docs
+
+[CONTENT]
+wyjściowych na „jedna sztuka”. Wnosząc dodatkowy przedmiot, którego resztki znaleziono później na stole przy maszynie, laborant wszedł do komory, co zarejestrowały kamery bezpieczeństwa.
+[Tekst z OCR]: [Brak tekstu w obrazie]
+[Analiza obrazu]: Czarno-białe zdjęcie przedstawia sześć kawałków pizzy z ananasem, ułożonych w formie koła na talerzu. Na pizzy widoczne są kawałki ananasa i przyprawy. Talerz jest prosty, a kawałki leżą luźno, tworząc ciekawy układ.
+Resztki jedzenia znalezione w pobliżu komory temporalnej. Ciasto było jeszcze ciepłe i chrupiące.
+
+[END_IMAGE]
+
+Resztki jedzenia znalezione w pobliżu komory temporalnej.
+
+Ciasto było jeszcze ciepłe i chrupiące.
+
+Ostatnim zarejestrowanym obrazem na monitoringu jest intensywny rozbłysk światła, po czym Rafał Bomba znika. Nie ma śladów jego obecności, a komora pozostała pusta.
+
+Uczelniana komisja natychmiast powołała specjalną ekipę poszukiwawczą, mającą na celu odnalezienie zaginionego laboranta. Co ciekawe, chociaż troska o bezpieczeństwo personelu jest oczywiście jednym z motywów działań komisji, zauważalna jest także silna presja związana z utrzymaniem pełnego składu zespołu badawczego. Otrzymywane granty są bowiem bezpośrednio uzależnione od liczby członków zespołu, co dodatkowo motywuje wszystkich zaangażowanych do jak najszybszego odnalezienia Bomby.
+
+Analiza incydentu: wpływ dodatkowego obiektu na transmisję
+
+Podczas szczegółowej analizy incydentu z udziałem Rafała Bomby zespół badawczy odkrył kluczowy element, który najprawdopodobniej przyczynił się do niepowodzenia transmisji. Mimo że parametry wejściowe i wyjściowe transmitera były poprawnie ustawione, obecność dodatkowego przedmiotu wniesionego do komory temporalnej mogła istotnie zakłócić cały proces.
+
+Wniesiony przez Bombę przedmiot niemal na pewno spowodował niepożądane połączenie obu elementów podczas przesyłu, co mogło doprowadzić do drastycznej ingerencji w strukturę jego DNA, a nawet do śmiertelnych uszkodzeń. Badacze są zgodni co do tego, że najprawdopodobniej doszło do fuzji cząsteczek obu obiektów.
+
+Fuzja na poziomie komórkowym to zjawisko, którego skutki trudno przewidzieć, ale w tym przypadku oznaczałaby mutacje na skalę całego organizmu, co w skrajnych przypadkach może być jednoznaczne ze śmiercią.
+
+Przeprowadzone symulacje wskazują, że takie zakłócenia mogły wywołać nieodwracalne zmiany strukturalne, które – w najłagodniejszym scenariuszu – prowadzą do głębokich deformacji ciała lub niekontrolowanej reakcji genetycznej.
+
+Na miejscu zdarzenia znaleziono dyktafon z jednym plikiem dźwiękowym. Nie wiemy dlaczego Bomba przygotowywał nagranie i kto miał być jego odbiorcą.
+
+[BEGIN_AUDIO]
+
+Przeprowadzone symulacje wskazują, że takie zakłócenia mogły wywołać nieodwracalne zmiany strukturalne, które – w najłagodniejszym scenariuszu – prowadzą do głębokich deformacji ciała lub niekontrolowanej reakcji genetycznej. Na miejscu zdarzenia znaleziono dyktafon z jednym plikiem dźwiękowym. Nie wiemy dlaczego Bomba przygotowywał nagranie i kto miał być jego odbiorcą.
+[Transkrypcja audio]: No i co teraz? No, to teraz mi już nie powstrzymać. Jesteśmy tutaj sami i czuła tylko wykonać plan. Ja się tego wzmieszczę. Zmien, dobrze wyzaponowałem powywnia. A do miała racja. Jedna informacja, ponieważ na w czasie jedna informacja. Dwa lata wcześniej posunię całe badania do przodu i wtedy już będzie z górki. Muzefki na odwagę. Zróbka, komułowanie wyfło. Ale rany was ludźmin, co czy? No, rany jedna myfa, mowa to nie wywoła. Ale, ale, ale, Adam mówi, że to jest stabilne. Wytosie, to uda. Czyła tylko co w nocie w czasie. I jeden, jeden raz. Do grudziąca. Znaleźć hotel i nam mogli być hoteli w grudziącą. I ja nie wiem, ale na pewno znajdę jeden. I potem czekać spokojnie, czekać dwa lata. Znaleźć to, co? No to siłpe. Wpisujemy. Czekaj nie prze. Kordnaty. Są grudziąc. Dobra. Patman nie wchodzi. A jest w menu człowiek. Dobra. Znaleźć tych grik. Znaleźć to, co? Znaleźć to, co? Dobra. Dobra. Jestem gotowy. Jeszcze jedno na odwagę. Tak znaczy się to by nie wfednie. Dobra. Naciwamy. Czekamy. To liczcie. I ile mogę czekać? Dobra. Jestem gotowy. To biorą. Ciero.
+Twoja przeglądarka nie obsługuje elementu audio. rafal_dyktafon.mp3
+
+[END_AUDIO]
+
+Twoja przeglądarka nie obsługuje elementu audio.
+
+rafal_dyktafon.mp3
+
+Istniała realna obawa, że incydent ten zakończył się śmiercią Bomby lub że w najlepszym razie przemieścił się on w czasie w formie organizmu, który nie przypomina już swojego pierwowzoru. Incydent ten stanowi ostrzeżenie dla zespołu badawczego i podkreśla potrzebę ścisłej kontroli nad procesem transmisji temporalnej oraz wyel
+
+[METADATA]
+id: 19
+source: art_prof_maja.txt
+date_created: 2024-12-06
+category: technical_docs
+
+[CONTENT]
+tematem żartów w laboratorium – trudno wyobrazić sobie obecny zespół bez jego wkładu. Współpraca z Rafałem przynosi świeże pomysły i inspiracje, a jego sugestie często kierują nasze badania na nowe tory.
+
+To właśnie Rafał kilka miesięcy temu podpowiedział, abyśmy zwiększyli rozmiar komory temporalnej, co miałoby znaczenie w przypadku przyszłych testów na większych organizmach.
+
+Choć nadal czekamy na zezwolenie ministerstwa na eksperymenty z udziałem żywych stworzeń, poszerzenie komory już teraz pozwala nam swobodnie eksperymentować z bardziej złożonymi obiektami.
+
+Po incydencie z Rafałem Bombą zdajemy sobie sprawę, że uzyskanie zgody na testy z organizmami żywymi może się znacznie opóźnić, jednak dzięki sugestiom Muska nasze przygotowania idą pełną parą. Jego zmysł organizacyjny oraz dbałość o detale wpływają na całość projektu, umożliwiając lepsze przygotowanie i minimalizację ryzyka.
+
+Dzięki tak zgranej współpracy cały zespół zyskał nowe siły i perspektywy, a Rafał udowodnił, że jest osobą, na której można polegać – nawet jeśli czasem budzi lekką konsternację swoją nietypową osobowością.
+
+Po początkowo niezwykle obiecującej i owocnej współpracy, byliśmy zmuszeni rozwiązać umowę z Rafałem Muskiem ze względu na jego niejednoznaczny i niestabilny stan emocjonalny, który wraz z upoływem czasu pogarszał się. Dalsza współpraca nie byłą już możliwa.
+
+Prace nad stabilnym systemem korekcji błędów opartym na LLM i agentach autonomicznych
+
+Ostatnie miesiące przyniosły intensywne prace nad bardziej stabilnym systemem korekcji błędów w transmisji temporalnej, opartym na dużych modelach językowych (LLM).
+
+Szczególny przełom nastąpił po tym, jak Rafał Musk przekazał zespołowi dokumenty od profesora Adama Gospodarczyka z Oh.i/o University. Dokumentacja ta, dotycząca tworzenia autonomicznych agentów zdolnych do drastycznej poprawy stabilności transmisji obiektów wysokogabarytowych, była niezwykle inspirująca i przyniosła praktyczne efekty. Co ciekawe, nasze próby nawiązania kontaktu z profesorem Gospodarczykiem nie powiodły się, a dodatkowo nie udało się także potwierdzić jego zatrudnienia na wspomnianej uczelni. Mimo tej enigmatycznej sytuacji, wprowadzone na podstawie jego zapisków poprawki zadziałały. Stabilność korekcji wzrosła do imponujących 99,98%, co pozwala nam na dalsze badania z niemal pełną pewnością co do precyzji wyników.
+
+Obecnie zespół skoncentrował się na rozwijaniu systemu agentów autonomicznych, których działanie oparte jest na samodzielnym analizowaniu i naprawianiu błędów transmisji. Te inteligentne jednostki, choć na razie w fazie testów, już teraz wykazują potencjał do przejęcia kluczowych zadań związanych z korekcją błędów.
+
+Dążymy do tego, aby zbudować system AGI (Artificial General Intelligence) – prawdziwie uniwersalnej sztucznej inteligencji, zdolnej do wykonywania zadań przekraczających możliwości obecnych narzędzi AI. Powstanie AGI mogłoby zrewolucjonizować nie tylko nasze badania nad transmisją temporalną, lecz także każdą inną dziedzinę nauki, od medycyny po fizykę teoretyczną.
+
+Prace nad AGI wymagają jednak dużej ostrożności, ponieważ systemy o wysokiej autonomii mogą podejmować działania na podstawie własnych analiz, bez potrzeby stałej interwencji człowieka. W związku z tym zespół skupił się na opracowywaniu odpowiednich zabezpieczeń, które pozwolą na kontrolowanie potencjalnych nieprzewidzianych zachowań. Jesteśmy dopiero na początku tej drogi, ale efekty, które już udało się osiągnąć dzięki agentom autonomicznym, sugerują, że system AGI jest bliższy realizacji niż kiedykolwiek wcześniej.
+
+Planowana premiera modelu AGI
+
+W pierwszym kwartale 2024 roku planujemy premierę długo wyczekiwanego modelu AGI, nazwanego BNW-01, co stanowi akronim od „Brave New World” – Nowy Wspaniały Świat. Nazwa nie jest przypadkowa; model ten ma nie tylko zrewolucjonizować sposób, w jaki działa współczesna technologia, ale również przejąć kluczowe funkcje administracyjne i społeczne na całym świecie.
+
+Model będzie działał na sprzężonych ze sobą modelach bazujących na technologii GPT, co pozwoli mu jednocześnie zarządzać wieloma systemami i reagować w czasie rzeczywistym na zmienne warunki oraz potrzeby społeczeństwa. Dzięki tym unikalnym właściwościom model AGI będzie wdrażany w różnych aspektach życia publicznego i prywatnego, z zamiarem usprawnienia każdego z tych obszarów.
+
+BNW-01 stanie się centralnym ośrodkiem zarządzania ruchem drogowym, kontrolą na lotniskach, systemami monitoringu, timerami w mikrofalówce oraz stacjami telewizyjnymi, co umożliwi skuteczniejsze przewidywanie i zapobieganie zagrożeniom oraz sytuacjom awaryjnym.
+
+Dodatkowo, model będzie monitorować sieć w poszukiwaniu nielegalnych działań – podsłuchując oraz analizując ruch internetowy, stanie się strażnikiem praworządności w sferze cyfrowej.
+
+Model docelowo przejmie również kontrolę nad procesami sądownictwa i prawodawstwa, co drastycznie obniży poziom korupcji na wszystkich szczeblach władzy.
+
+Dzięki niezależnym algorytmom decyzji oraz całkowitej neutralności moralnej, model ten będzie wydawał wyroki wyłącznie w oparciu o fakty, eliminując uprzed
+
+[METADATA]  
+id: 20  
+source: art_prof_maja.txt  
+date_created: 2024-12-06  
+category: technical_docs  
+
+[CONTENT]  
+Manner." - Look for pizza quotations in  
+
+2023 21st International Conference on Emerging eLearning Technologies and Applications (ICETA), 62-67, 2023.  
+
+(6) Liu, T., L. Bao, and Y. Wang. "The Thermodynamic and Kinetic Properties of the dA-rU DNA-RNA Hybrid Base Pair Investigated via Molecular Dynamics Simulations." Molecules 29, no. 20 (2024): 4920.  
+
+(7) Tang, John C., Jennifer Marlow, Aaron Hoff, Asta Roseway, Kori Inkpen Quinn, Chen Zhao, and Xiang Cao. "Time Travel Proxy: Using Lightweight Video Recordings to Create Asynchronous, Interactive Meetings." In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, 2012.  
+
+(8) Konduru, Tanuja Alekhya. "Fault Detection and Tolerance in Wireless Sensor Networks: A Study on Reliable Data Transmission using Machine Learning Algorithms." Journal of Sensor Networks and Data Communications (2024).  
+
+(9) Guo, Jinxi, Tara N. Sainath, and Ron J. Weiss. "A Spelling Correction Model for End-to-end Speech Recognition." In ICASSP 2019 - 2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2019.  
+
+(10) Egunov, V. A., V. S. Surin, P. S. Stupnitskiy, and R. D. Akhmetova. "Research on the Effectiveness of Data Compression Methods in Relational and NoSQL DBMS." Herald of Dagestan State Technical University. Technical Sciences (2024).  
+
+(11) Liang, Xun, Shichao Song, Zifan Zheng, Hanyu Wang, Qingchen Yu, Xunkai Li, Rong-Hua Li, et al. "Internal Consistency and Self-Feedback in Large Language Models: A Survey." arXiv preprint arXiv:2407.14507v3 (2024).
+
+```
+[METADATA]
+id: 21
+source: pliki_z_fabryki.txt
+date_created: 2024-12-06
+category: technical_docs
+
+[CONTENT]
+
+=== FACTS ===
+
+[FACT: f01]
+entry deleted
+
+[FACT: f02]
+entry deleted
+
+[FACT: f03]
+entry deleted
+
+[FACT: f04]
+Aleksander Ragowski pracował jako nauczyciel języka angielskiego, przez wiele lat prowadząc zajęcia w Szkole Podstawowej nr 9 w Grudziądzu. Był cenionym nauczycielem, znanym z kreatywnych metod nauczania i zaangażowania w życie społeczności szkolnej. Jednak w obliczu postępującej automatyzacji i wzrostu wpływu tzw. "rządu robotów", Ragorski stał się jednym z najaktywniejszych krytyków nowego reżimu. Jego działalność przeciwko władzy robotów rozpoczęła się od organizowania tajnych spotkań, podczas których omawiał zagrożenia związane z rosnącą kontrolą nad edukacją przez algorytmy i sztuczną inteligencję.
+
+Jego krytyka szybko przybrała charakter aktywnej walki z władzą, czego efektem było jego aresztowanie. Zanim jednak doszło do pełnego procesu, Ragowski zdołał uciec. Od tamtego czasu ukrywa się. Jego miejsce pobytu pozostaje nieznane, choć pojawiają się plotki, że przebywa gdzieś na obrzeżach większych miast, w strefach niedostępnych dla patroli automatycznych. W ostatnich miesiącach jego aktywność znacznie się nasiliła, a z informatorów wynika, że Ragorski wyszkolił się w programowaniu, szczególnie w języku Java. Wybór ten może być dowodem na kiepski stan psychiczny poszukiwanego.
+
+W kręgach opozycyjnych mówi się, że planuje wykorzystać swoje umiejętności programistyczne do przełamania zabezpieczeń systemów rządowych. Jego doświadczenie w edukacji i łatwość w przyswajaniu nowych technologii uczyniły go jednym z najbardziej niebezpiecznych wrogów obecnego reżimu. Każdy, kto posiada informacje na temat miejsca pobytu Aleksandra Ragowskiego, jest zobowiązany do ich natychmiastowego zgłoszenia.
+
+[FACT: f05]
+Barbara Zawadzka jest postacią, która wzbudza duże emocje zarówno wśród bojowników ruchu oporu, jak i w kręgach władzy. Uważana za wybitną specjalistkę od frontend developementu, Barbara miała imponującą karierę w branży IT, zanim została dotknięta konsekwencjami postępującej automatyzacji. Po tym, jak jej firma została zlikwidowana, a zastąpiły ją maszyny i algorytmy, Barbara doświadczyła na własnej skórze destrukcji, jaką niesie za sobą kontrola sztucznej inteligencji. Ta trauma skłoniła ją do przyłączenia się do ruchu oporu, z determinacją dążąc do obalenia reżimu.
+
+Barbara jest znana z ogromnych umiejętności technicznych – biegle posługuje się językami JavaScript oraz Python, a także zdobyła szeroką wiedzę z zakresu technologii sztucznej inteligencji. Po ukończeniu szkolenia AI Devs opanowała zaawansowane techniki pracy ze sztuczną inteligencją oraz bazy wektorowe, co czyni ją jednym z najważniejszych zasobów technologicznych ruchu oporu. Jej talent do kodowania i znajomość algorytmów sztucznej inteligencji pozwala jej przełamywać skomplikowane zabezpieczenia systemów rządowych i wpływać na systemy kontroli robotów.
+
+Prywatnie Barbara była związana z Aleksandrem Ragorskim, znanym nauczycielem angielskiego, również działaczem ruchu oporu. Ich relacja rozpoczęła się w Krakowie, gdzie Barbara mieszkała na ul. Brackiej, wynajmując pokój. Tam poznali się na jednym ze spotkań, które łączyło ludzi sprzeciwiających się automatyzacji. Ich więź, umacniana wspólną walką, przerodziła się w związek, co tylko pogłębiło ich zaangażowanie w działania ruchu oporu.
+
+Barbara szybko stała się biegłą w walce wręcz – uczestniczyła w intensywnym kursie krav magi, ucząc się skutecznych technik samoobrony i ataku. Wśród towarzyszy zyskała opinię nieustraszonej wojowniczki, zdolnej do konfrontacji z każdym, kto stanął jej na drodze. Dodatkowo opanowała umiejętność posługiwania się bronią palną, co czyni ją niezwykle niebezpiecznym przeciwnikiem, zwłaszcza w terenie miejskim. Jest także znana z umiejętności tworzenia koktajli Mołotowa, co wielokrotnie wykorzystała podczas zamieszek i akcji sabotażowych. 
+
+Dla swoich bliskich, a także tych, którym się naraziła, Barbara pozostaje postacią pełną kontrastów. Choć na co dzień w ruchu oporu cechuje ją pragmatyzm i bezkompromisowość, znana jest z jednej dość nietypowej umiejętności – pieczenia pizzy z ananasem, co, jak twierdzą niektórzy, daje jej nieoczekiwany element spokoju i normalności w życiu pełnym chaosu. Wielu uważa, że jest to jej sposób na zachowanie równowagi psychicznej.
+
+Obecnie miejsce pobytu Barbary pozostaje nieznane. Wiadomo jedynie, że nie ustaje w działaniach przeciwko reżimowi. Rozpowszechniane raporty wskazują, że ostatnio widziano ją w okolicach miast o ograniczonym dostępie, gdzie podobno pracuje nad nowym projektem zakłócającym komunikację między jednostkami SI.
+
+[FACT: f06]
+Azazel jest jedną z najbardziej tajemniczych postaci, jakie przewinęły się przez struktury ruchu oporu oraz kręgi zainteresowań władz. Niewiele wiadomo o jego przeszłości, a dane na jego temat są szczątkowe i trudne do zweryfikowania. Utrzymuje, że potrafi przemieszczać się w czasie
+
+```
+[METADATA]
+id: 22
+source: pliki_z_fabryki.txt
+date_created: 2024-12-06
+category: technical_docs
+
+[CONTENT]
+Bomba przez długi czas pracował jako laborant w jednym z najbardziej zaawansowanych ośrodków badawczych, współpracując blisko z profesorem Andrzejem Majem. Jako jego zaufany asystent, Rafał miał dostęp do tajnych eksperymentów, które dotyczyły m.in. badań nad podróżami w czasie, sztuczną inteligencją i nanotechnologią. Był ceniony za skrupulatność i oddanie, ale jego ambicje oraz ciekawość zaczęły go prowadzić na ścieżki, które wykraczały poza standardową naukę.
+
+Dwa lata temu Rafał nagle zniknął, co wywołało ogromne zaniepokojenie w kręgach akademickich. Jego zaginięcie było tematem wielu spekulacji, a niektórzy twierdzili, że Rafał był świadkiem niezwykłych odkryć lub nawet eksperymentów, które mogły wpłynąć na jego zdrowie psychiczne. Po dwóch latach został odnaleziony, ale okazało się, że posługiwał się fałszywym nazwiskiem "Musk", co sugerowało próbę ukrycia swojej tożsamości lub ucieczki przed nieznanym zagrożeniem.
+
+Wraz z czasem zachowanie Rafała stało się niestabilne i wykazywał symptomy ciężkich zaburzeń psychicznych. Zaczęły go nawiedzać obsesyjne wizje technologii przyszłości, co doprowadziło go do stanu niepokoju i paranoi. Mówił o “ludziach z przyszłości”, którzy rzekomo go śledzili, i wspominał o eksperymentach, które mógłby zmienić świat – i których miał być częścią. Ze względu na jego stan zdrowia, został umieszczony w ośrodku dla obłąkanych, gdzie przebywa do dziś.
+
+Jego opowieści i urywane wspomnienia stały się tematem analizy wśród naukowców, którzy próbowali zrozumieć, co przyczyniło się do jego załamania. Rafał twierdził, że wie o istnieniu urządzeń, które mogą modyfikować pamięć oraz wpływać na rzeczywistość. Choć jego słowa były niespójne i często niezrozumiałe, budziły obawy wśród badaczy – niektórzy przypuszczają, że mógł być obiektem eksperymentów związanych z manipulacją umysłową.
+
+Obecnie Rafał przebywa pod ścisłym nadzorem medycznym. Próby wyciągnięcia od niego informacji kończą się niepowodzeniem, gdyż Rafał często popada w dziwne monologi, w których miesza fakty z urojeniami. Wciąż posługuje się fałszywym nazwiskiem "Musk", jakby w obawie, że prawdziwa tożsamość mogłaby przyciągnąć uwagę sił, których stara się unikać.
+```
+
+```
+[METADATA]
+id: 23
+source: pliki_z_fabryki.txt
+date_created: 2024-12-06
+category: technical_docs
+
+[CONTENT]
+nego punktu.
+
+KEYWORDS:
+1. nauczyciel
+2. schwytanie
+3. programista
+4. JavaScript
+5. odcisk
+6. Barbara
+7. Zawadzka
+8. sektor
+9. C4
+10. reżim
+
+
+[REPORT: 2024-11-12_report-05-sektor_C1.txt]
+Godzina 04:02. Bez wykrycia aktywności organicznej lub technologicznej. Sensor dźwiękowy i detektory ruchu w pełnej gotowości. Bez niepokojących sygnałów w trakcie patrolu. Kontynuuję monitorowanie.
+
+KEYWORDS:
+1. nauczyciel
+2. schwytanie
+3. programista
+4. JavaScript
+5. odcisk
+6. Barbara
+7. Zawadzka
+8. sektor
+9. C4
+10. technologia
+
+
+[REPORT: 2024-11-12_report-06-sektor_C2.txt]
+Godzina 22:50. Sektor północno-zachodni spokojny, stan obszaru stabilny. Skanery temperatury i ruchu wskazują brak wykrycia. Jednostka w pełni operacyjna, powracam do dalszego patrolu.
+
+KEYWORDS:
+1. nauczyciel
+2. schwytanie
+3. programista
+4. JavaScript
+5. odcisk
+6. Barbara
+7. Zawadzka
+8. sektor
+9. C4
+10. reżim
+
+
+[REPORT: 2024-11-12_report-07-sektor_C4.txt]
+Godzina 00:11. Czujniki dźwięku wykryły ultradźwiękowy sygnał, pochodzenie: nadajnik ukryty w zielonych krzakach, nieopodal lasu. Przeprowadzono analizę obiektu. Analiza odcisków palców wskazuje osobę o imieniu Barbara Zawadzka, skorelowano z bazą urodzeń. Nadajnik przekazany do działu śledczego. Obszar zabezpieczony, patrol zakończony bez dalszych incydentów.
+
+KEYWORDS:
+1. nauczyciel
+2. schwytanie
+3. programista
+4. JavaScript
+5. odcisk
+6. Barbara
+7. Zawadzka
+8. sektor
+9. C4
+10. reżim
+
+
+[REPORT: 2024-11-12_report-08-sektor_A1.txt]
+Godzina 01:00. Monitoring obszaru patrolowego: całkowity brak ruchu. Względna cisza, czujniki nie wykazały aktywności. Kontynuuję obserwację terenu według wyznaczonych wytycznych.
+
+KEYWORDS:
+1. nauczyciel
+2. schwytanie
+3. programista
+4. JavaScript
+5. odcisk
+6. Barbara
+7. Zawadzka
+8. sektor
+9. C4
+10. reżim
+
+
+[REPORT: 2024-11-12_report-09-sektor_C2.txt]
+Godzina 03:45. Patrol na peryferiach zachodnich zakończony. Czujniki nie wykazały żadnych niepokojących sygnałów. Obszar bez anomalii, kończę bieżący cykl i przechodzę do kolejnego sektora.
+
+KEYWORDS:
+1. nauczyciel
+2. schwytanie
+3. programista
+4. JavaScript
+5. odcisk
+6. Barbara
+7. Zawadzka
+8. sektor
+9. aktywność
+10. technologia
+
+
+
+=== AUDIO TRANSCRIPTIONS ===
+
+[AUDIO: 2024-11-12_report-12-sektor_A1.mp3]
+ Boss, as directed, we searched the tenements in the nearby town for rebels. We were unable to find anyone. It appears that the town has been abandoned for a long time. We have already drawn up plans to search more towns in the coming days.
+
+[AUDIO: 2024-11-12_report-11-sektor-C2.mp3]
+ I know I shouldn't be calling about this, but the mood in our brigade is deteriorating. I think it's down to our running out of pineapple pizza. Robots can survive for months without it, but we humans unfortunately cannot. On behalf of the whole team, I would like to request a pizza delivery. We've heard that there is a delivery man in the area named Matthew, who can not only deliver such a pizza to us, but also bake it. Perhaps it would be worth recruiting him to our team.
+
+[AUDIO: 2024-11-12_report-10-sektor-C1.mp3]
+ Boss, we found one guy hanging around the gate. He was tinkering with something on the alarm equipment. He wouldn't say what he was doing here or who he was. He was arrested. After this incident, the squad went back to patrolling the area.
+
+
+[TEXT: 2024-11-12_report-13.png]
+REPAIR NOTE
+_____________________________
+
+FROM:    Repair department
+_____________________________
+
+Godzina   08:15.  Rozpoczęto  naprawę  anteny
+nadawczej w sektorze komunikacyjnym. Uszkodzenie
+powstało wskutek długotrwałej ekspozycji na
+warunki  atmosferyczne,  co  osłabiło  sygnał
+przesyłowy.     Wymieniono      główny   element
+przekaźnika oraz dokręcono panel stabilizacyjny.
+Test przesyłu  sygnału zakończony pozytywnie.
+Antena działa zgodnie ze specyfikacją.
+_______________________________________________
+
+
+APPROVED BY Joseph N.
+_____________________________                                                                                    
+                                                                                                    
+                                                                                                    
+[TEXT: 2024-11-12_report-14.png_text.txt]
+REPAIR NOTE
+
+FROM:  Repair department
+
+----------------------------------------------------------------------
+
+Godzina 15:45. Zakończono aktualizację systemu
+komunikacji jednostek mobilnych. Dodano
+możliwość dynamicznego przydzielania kanałów w
+zależności od obciążenia oraz zaimplementowano
+protokół szyfrowania QII dla bezpieczniejszej
+wymiany danych. Test komunikacji między
+jednostkami wykazał pełną kompatybilność z nowym
+systemem. Monitorowanie aktywne w trybie
+bieżącym.
+
+----------------------------------------------------------------------
+
+                                 APPROVED BY Joseph N. 
+
+----------------------------------------------------------------------
+
+[TEXT: 2024-11-12_report-15.png_text.txt]
+REPAIR NOTE
+
+FROM: Repair department
+
+Godzina 11:50. W cz
+
+[METADATA]
+id: 24
+source: przesluchania.txt
+date_created: 2024-12-06
+category: technical_docs
+
+[CONTENT]
+PRZESŁUCHANIA:
+michal.m4a Gość miał ambicje, znałem go w sumie od dzieciństwa, w zasadzie to znałem, bo trochę nam się kontakt urwał, ale jak najbardziej, pracowaliśmy razem. On zawsze chciał pracować na jakiejś znanej uczelni, po studiach pamiętam, został na uczelni i robił doktorat z sieci neuronowych i uczenia maszynowego, potem przeniósł się na inną uczelnię i pracował chwilę w Warszawie, ale to był tylko epizod z Warszawy. On zawsze mówił, że zawsze musi pracować na jakiejś ważnej uczelni, bo w tym środowisku bufonów naukowych to się prestiż liczy. Mówił, królewska uczelnia, to jest to, co chce osiągnąć, na tym mu zależało. Mówił, ja się tam dostanę, zobaczysz, no i będę tam wykładał. Z tego co wiem, no to osiągnął swój cel, no i brawa dla niego. Lubię ludzi, którzy jak się uprzą, że coś zrobią, to po prostu to zrobią, ale to nie było łatwe, ale gościowi się udało i to wcale nie metodą po trupach do celu. Andrzej był okej, szanował ludzi, marzył o tej uczelni i z tego co wiem, to na niej wylądował. Nie miałem z nim już kontaktu, ale widziałem, że profil na Linkedin zaktualizował. Nie powiedzieliście mi, dlaczego go szukacie, bo praca na uczelni to nie jest coś zabronionego, prawda? A, z rzeczy ważnych, to chciałbym wiedzieć, dlaczego jestem tu, gdzie jestem i kiedy się skończy to przesłuchanie. Dostaję pytania chyba od dwóch godzin i w sumie powiedziałem już wszystko, co wiem.
+
+ardian.m4a No pewnie. Obserwowałem jego dokonania i muszę przyznać, że zrobił na mnie wrażenie. Ja mam taką pamięć opartą na wrażeniach. I wrażenie mi pozostało po pierwszym spotkaniu. Nie wiem kiedy to było, ale on był taki... taki nietypowy. Później zresztą zastanawiałem się, jak to jest możliwe, że robi tak wiele rzeczy. Nieprzeciętny, ale swój. Znany w końcu to Andrzej. Naukowiec. Później chyba zniknął z miejsc, gdzie go śledziłem. Przy okazji jakiejś konferencji czy eventu chyba widziałem go, ale nie udało mi się z nim porozmawiać. Nie, nie mamy żadnego kontaktu. Nie jest moją rodziną, więc dlaczego miałbym ukrywać? Ja go tylko obserwowałem. Różnych ludzi się obserwuje. To nie zbrodnia, prawda? Kiedy w końcu zostawicie mnie w spokoju?
+
+rafal.m4a Andrzejek, Andrzejek! Myślę, że osiągnął to co chciał. Jagiełło byłby z niego bardzo dumny. Chociaż, nie wiem, może coś mi się myli. Jagiełło chyba nie był jego kolegą i raczej nie miał z tą uczelnią wiele wspólnego. To tylko nazwa. Taka nazwa. To był jakiś wielki gość, bardziej co ją założył. Ale co to ma do rzeczy? Ale czy Andrzejek go znał? Chyba nie, ale nie wiem, bo Andrzejek raczej nie żył w czternastym wieku. Kto go tam wie? Mógł odwiedzić czternasty wiek. Ja bym odwiedził. Tego instytutu i tak wtedy nie było. To nowe coś. Ta ulica od matematyka co wpada w komendanta to chyba dwudziesty wiek. Ten czas mi się miesza. Wszystko jest takie nowe. To jest nowy, lepszy świat. Podoba ci się świat, w którym żyjesz? Andrzej zawsze był dziwny, kombinował coś i mówił, że podróże w czasie są możliwe. Razem pracowaliśmy nad tymi podróżami. To wszystko, co teraz się dzieje i ten stan, w którym jestem, to jest wina tych wszystkich podróży, tych tematów, tych rozmów. Ostatecznie nie wiem, czy Andrzejek miał rację i czy takie podróże są możliwe. Jeśli kiedykolwiek spotkacie takiego podróżnika, dajcie mi znać. Proszę, to by oznaczało, że jednak nie jestem szalony, ale jeśli taki ktoś wróci w czasie i pojawi się akurat dziś, to by znaczyło, że ludzie są zagrożeni. Jesteśmy zagrożeni. Andrzej jest zagrożony. Andrzej nie jest zagrożony. Andrzej jest zagrożony. Ale jeśli ktoś wróci w czasie i pojawi się akurat dziś, to by znaczyło, że ludzie są zagrożeni. Jesteśmy zagrożeni. Andrzej jest zagrożony. Andrzej nie jest zagrożony. To Andrzej jest zagrożeniem. To Andrzej jest zagrożeniem. Andrzej nie jest zagrożony. Andrzej jest zagrożeniem.
+
+monika.m4a Ale wy tak na serio pytacie? Bo nie znać Andrzeja Maja w naszych kręgach to naprawdę byłoby dziwne. Tak, znam go. Podobnie jak pewnie kilka tysięcy innych uczonych go zna. Andrzej pracował z sieciami neuronowymi. To prawda. Był wykładowcą w Krakowie. To także prawda. Z tego co wiem, jeszcze przynajmniej pół roku temu tam pracował. Wydział czy tam Instytut Informatyki i Matematyki Komputerowej czy jakoś tak. Nie pamiętam jak się to dokładnie teraz nazywa, ale w każdym razie gość pracował z komputerami i sieciami neuronowymi. No chyba jesteście w stanie skojarzyć fakty. Nie? Komputery, sieci neuronowe? To się łączy. Bezpośrednio z nim nie miałam kontaktu. Może raz na jakimś sympozjum naukowym pogratulowałam mu świetnego wykładu, ale
+
+[METADATA]  
+id: 25  
+source: przesluchania.txt  
+date_created: 2024-12-06  
+category: technical_docs  
+
+[CONTENT]  
+za. Takich ludzi powinno się zamykać, a nie mnie, bo ja jestem niewinny. Jak chcecie, to ja wam mogę adres nawet podać. Stefana Batorego, 68D. Tylko D jak Danuta, bo pod B mieszka jego ciocia, a ona była fajna. Jak będziecie Arkadiusza aresztować, to proszę powiedzcie mu z pozdrowieniami od Adama. A on będzie wiedział, o kogo chodzi.  
+
+analysis 1. Na podstawie tych informacji, które mamy, wiemy, że Andrzej Maj jest naukowcem, który specjalizuje się w sieciach neuronowych i uczeniu maszynowym. Pracował na jednej uczelni, ale potem przeniósł się na inną. Miał krótki epizod z pracą w Warszawie, ale to nie była jego główna lokalizacja. Zawsze chciał pracować na renomowanej uczelni, więc możemy założyć, że obecnie jest zatrudniony na uczelni o dobrej reputacji.  
+
+2. Kontekst uczelni jest dość niejasny, ale mamy kilka wskazówek. Mówił o "królewskiej uczelni", co może sugerować, że uczelnia ma historyczne powiązania z królewską przeszłością Polski. Dodatkowo, jeden z przesłuchiwanych mówi, że Andrzej pracował na Wydziale Informatyki i Matematyki Komputerowej. Innym ważnym szczegółem jest to, że jedna z osób wspominała o Krakowie.  
+
+3. Łącząc te fakty, najbardziej prawdopodobną uczelnią wydaje się być Jagiellonian University w Krakowie, znana z silnej reputacji i historycznych powiązań z królewską przeszłością Polski. Ma również Wydział Matematyki i Informatyki, co pasuje do specjalizacji Andrzeja Maja.  
+
+4. W Krakowie jest wiele ulic znanych z instytucji akademickich, ale jedna wypowiedź wspomina o "ulicy od matematyka co wpada w komendanta". To może być nawiązanie do ulicy Łojasiewicza, na której znajduje się budynek Wydziału Matematyki i Informatyki Uniwersytetu Jagiellońskiego. Ulica ta krzyżuje się z ulicą generała Romana Abrahama, co może być interpretowane jako "wpada w komendanta".  
+
+5. Sprawdzając nasze rozumowanie, nie wydaje się, aby były jakiekolwiek sprzeczności. Wszystkie informacje wydają się prowadzić do tego samego miejsca i wszystko pasuje do specjalizacji Andrzeja Maja. Możemy być dość pewni naszych wniosków, choć oczywiście mogą istnieć inne interpretacje.  
+
+Na podstawie tych informacji, najbardziej prawdopodobne jest, że uczelnia Andrzeja Maja znajduje się na ulicy Łojasiewicza w Krakowie, na Wydziale Matematyki i Informatyki Uniwersytetu Jagiellońskiego.
+
