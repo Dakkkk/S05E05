@@ -1,0 +1,10 @@
+openai>=1.0.0
+python-dotenv
+asyncio
+aiohttp
+psycopg2-binary
+crawl4ai
+python-json-logger
+typing-extensions
+pathlib
+urllib3
