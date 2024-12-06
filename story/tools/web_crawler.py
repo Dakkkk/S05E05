@@ -338,6 +338,7 @@ class SmartWebCrawler:
             # Fall back to all links if LLM analysis fails
             return [link['url'] for link in links_data]
 
+# TODO: remove, only for testing
 # async def main():
 #     # Initialize the crawler
 #     base_url = "https://softo.ag3nts.org"
